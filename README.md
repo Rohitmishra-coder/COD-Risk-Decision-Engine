@@ -44,9 +44,6 @@ The system does not automatically cancel orders.
 ```text
 COD-Risk-Decision-Engine/
 │
-├── data/
-│   └── orders_sample.csv
-│
 ├── config.json
 ├── data_analysis.py
 ├── feature_analysis.py
