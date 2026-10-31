@@ -1,0 +1,1988 @@
+order_id,predicted_decision,decision,decision_matches
+KT101713,ship as-is,ship as-is,True
+KT101080,nudge to prepaid,nudge to prepaid,True
+KT101470,ship as-is,ship as-is,True
+KT100035,ship as-is,ship as-is,True
+KT100833,nudge to prepaid,nudge to prepaid,True
+KT100010,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100585,ship as-is,ship as-is,True
+KT100805,nudge to prepaid,nudge to prepaid,True
+KT101225,ship as-is,ship as-is,True
+KT100680,nudge to prepaid,nudge to prepaid,True
+KT101257,ship as-is,ship as-is,True
+KT100755,ship as-is,ship as-is,True
+KT101117,ship as-is,ship as-is,True
+KT100984,ship as-is,ship as-is,True
+KT101087,nudge to prepaid,nudge to prepaid,True
+KT100771,ship as-is,ship as-is,True
+KT101430,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101123,ship as-is,ship as-is,True
+KT100152,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100826,nudge to prepaid,nudge to prepaid,True
+KT101179,ship as-is,ship as-is,True
+KT100129,nudge to prepaid,nudge to prepaid,True
+KT100353,ship as-is,ship as-is,True
+KT101891,ship as-is,ship as-is,True
+KT100638,nudge to prepaid,nudge to prepaid,True
+KT100299,ship as-is,ship as-is,True
+KT100357,ship as-is,ship as-is,True
+KT100031,ship as-is,ship as-is,True
+KT100670,nudge to prepaid,nudge to prepaid,True
+KT101608,ship as-is,ship as-is,True
+KT100692,ship as-is,ship as-is,True
+KT100158,nudge to prepaid,nudge to prepaid,True
+KT101547,nudge to prepaid,nudge to prepaid,True
+KT100829,ship as-is,ship as-is,True
+KT100618,ship as-is,ship as-is,True
+KT100560,nudge to prepaid,nudge to prepaid,True
+KT101266,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101200,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101655,ship as-is,ship as-is,True
+KT100301,nudge to prepaid,nudge to prepaid,True
+KT100448,ship as-is,ship as-is,True
+KT101624,nudge to prepaid,nudge to prepaid,True
+KT101272,ship as-is,ship as-is,True
+KT100310,nudge to prepaid,nudge to prepaid,True
+KT100371,ship as-is,ship as-is,True
+KT101408,nudge to prepaid,nudge to prepaid,True
+KT100274,nudge to prepaid,nudge to prepaid,True
+KT101275,ship as-is,ship as-is,True
+KT100955,ship as-is,ship as-is,True
+KT101742,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101751,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101075,ship as-is,ship as-is,True
+KT100811,ship as-is,ship as-is,True
+KT100519,ship as-is,ship as-is,True
+KT101912,nudge to prepaid,nudge to prepaid,True
+KT101022,ship as-is,ship as-is,True
+KT101204,ship as-is,ship as-is,True
+KT100018,ship as-is,ship as-is,True
+KT101767,ship as-is,ship as-is,True
+KT100743,nudge to prepaid,nudge to prepaid,True
+KT100409,nudge to prepaid,nudge to prepaid,True
+KT101047,ship as-is,ship as-is,True
+KT100859,nudge to prepaid,nudge to prepaid,True
+KT100388,ship as-is,ship as-is,True
+KT101940,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100840,ship as-is,ship as-is,True
+KT100000,nudge to prepaid,nudge to prepaid,True
+KT102000,nudge to prepaid,nudge to prepaid,True
+KT101664,ship as-is,ship as-is,True
+KT101007,ship as-is,ship as-is,True
+KT100674,ship as-is,ship as-is,True
+KT101457,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100652,ship as-is,ship as-is,True
+KT100530,ship as-is,ship as-is,True
+KT100704,ship as-is,ship as-is,True
+KT101090,ship as-is,ship as-is,True
+KT100701,ship as-is,ship as-is,True
+KT101452,nudge to prepaid,nudge to prepaid,True
+KT101925,nudge to prepaid,nudge to prepaid,True
+KT101697,ship as-is,ship as-is,True
+KT100884,nudge to prepaid,nudge to prepaid,True
+KT101263,ship as-is,ship as-is,True
+KT101299,ship as-is,ship as-is,True
+KT100546,nudge to prepaid,nudge to prepaid,True
+KT100947,ship as-is,ship as-is,True
+KT101224,ship as-is,ship as-is,True
+KT101944,ship as-is,ship as-is,True
+KT100411,nudge to prepaid,nudge to prepaid,True
+KT101777,ship as-is,ship as-is,True
+KT100173,ship as-is,ship as-is,True
+KT100908,ship as-is,ship as-is,True
+KT101012,ship as-is,ship as-is,True
+KT100695,ship as-is,ship as-is,True
+KT101708,ship as-is,ship as-is,True
+KT101862,ship as-is,ship as-is,True
+KT100336,ship as-is,ship as-is,True
+KT101921,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100539,nudge to prepaid,nudge to prepaid,True
+KT100205,ship as-is,ship as-is,True
+KT100708,ship as-is,ship as-is,True
+KT101356,ship as-is,ship as-is,True
+KT101851,ship as-is,ship as-is,True
+KT101913,ship as-is,ship as-is,True
+KT101793,ship as-is,ship as-is,True
+KT101380,ship as-is,ship as-is,True
+KT101780,nudge to prepaid,nudge to prepaid,True
+KT101052,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100435,ship as-is,ship as-is,True
+KT101901,ship as-is,ship as-is,True
+KT101429,ship as-is,ship as-is,True
+KT100087,ship as-is,ship as-is,True
+KT100860,nudge to prepaid,nudge to prepaid,True
+KT100028,nudge to prepaid,nudge to prepaid,True
+KT101279,ship as-is,ship as-is,True
+KT100270,ship as-is,ship as-is,True
+KT101151,ship as-is,ship as-is,True
+KT101344,ship as-is,ship as-is,True
+KT101105,ship as-is,ship as-is,True
+KT101598,ship as-is,ship as-is,True
+KT100218,nudge to prepaid,nudge to prepaid,True
+KT101884,nudge to prepaid,nudge to prepaid,True
+KT101605,nudge to prepaid,nudge to prepaid,True
+KT100673,ship as-is,ship as-is,True
+KT101788,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100039,ship as-is,ship as-is,True
+KT100784,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101092,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101252,ship as-is,ship as-is,True
+KT100940,ship as-is,ship as-is,True
+KT100197,ship as-is,ship as-is,True
+KT101320,ship as-is,ship as-is,True
+KT101524,ship as-is,ship as-is,True
+KT101273,ship as-is,ship as-is,True
+KT101858,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100436,ship as-is,ship as-is,True
+KT101665,ship as-is,ship as-is,True
+KT100717,ship as-is,ship as-is,True
+KT100113,nudge to prepaid,nudge to prepaid,True
+KT101326,nudge to prepaid,nudge to prepaid,True
+KT100405,nudge to prepaid,nudge to prepaid,True
+KT100072,nudge to prepaid,nudge to prepaid,True
+KT101084,ship as-is,ship as-is,True
+KT100358,nudge to prepaid,nudge to prepaid,True
+KT101591,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100469,ship as-is,ship as-is,True
+KT101130,ship as-is,ship as-is,True
+KT100399,nudge to prepaid,nudge to prepaid,True
+KT100559,nudge to prepaid,nudge to prepaid,True
+KT100330,ship as-is,ship as-is,True
+KT100329,ship as-is,ship as-is,True
+KT101590,ship as-is,ship as-is,True
+KT101361,ship as-is,ship as-is,True
+KT100455,ship as-is,ship as-is,True
+KT100912,ship as-is,ship as-is,True
+KT101013,nudge to prepaid,nudge to prepaid,True
+KT100009,nudge to prepaid,nudge to prepaid,True
+KT101515,ship as-is,ship as-is,True
+KT101757,nudge to prepaid,nudge to prepaid,True
+KT101259,ship as-is,ship as-is,True
+KT100581,ship as-is,ship as-is,True
+KT101015,ship as-is,ship as-is,True
+KT100547,ship as-is,ship as-is,True
+KT101378,nudge to prepaid,nudge to prepaid,True
+KT100008,ship as-is,ship as-is,True
+KT101630,nudge to prepaid,nudge to prepaid,True
+KT100091,ship as-is,ship as-is,True
+KT100869,ship as-is,ship as-is,True
+KT101733,ship as-is,ship as-is,True
+KT101730,nudge to prepaid,nudge to prepaid,True
+KT100492,ship as-is,ship as-is,True
+KT101050,ship as-is,ship as-is,True
+KT101304,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100986,ship as-is,ship as-is,True
+KT101855,ship as-is,ship as-is,True
+KT100233,ship as-is,ship as-is,True
+KT101068,nudge to prepaid,nudge to prepaid,True
+KT100693,nudge to prepaid,nudge to prepaid,True
+KT101108,ship as-is,ship as-is,True
+KT100075,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101634,nudge to prepaid,nudge to prepaid,True
+KT101537,ship as-is,ship as-is,True
+KT101725,ship as-is,ship as-is,True
+KT101551,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101699,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101330,nudge to prepaid,nudge to prepaid,True
+KT101241,ship as-is,ship as-is,True
+KT151241,ship as-is,ship as-is,True
+KT101345,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100961,ship as-is,ship as-is,True
+KT101292,ship as-is,ship as-is,True
+KT100794,ship as-is,ship as-is,True
+KT100945,nudge to prepaid,nudge to prepaid,True
+KT100880,ship as-is,ship as-is,True
+KT101503,ship as-is,ship as-is,True
+KT101048,nudge to prepaid,nudge to prepaid,True
+KT101472,nudge to prepaid,nudge to prepaid,True
+KT101003,ship as-is,ship as-is,True
+KT101388,ship as-is,ship as-is,True
+KT100501,ship as-is,ship as-is,True
+KT100355,nudge to prepaid,nudge to prepaid,True
+KT101529,ship as-is,ship as-is,True
+KT100370,ship as-is,ship as-is,True
+KT101857,nudge to prepaid,nudge to prepaid,True
+KT100565,ship as-is,ship as-is,True
+KT100090,ship as-is,ship as-is,True
+KT100443,nudge to prepaid,nudge to prepaid,True
+KT101318,ship as-is,ship as-is,True
+KT100681,ship as-is,ship as-is,True
+KT100877,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100893,nudge to prepaid,nudge to prepaid,True
+KT101819,ship as-is,ship as-is,True
+KT101838,ship as-is,ship as-is,True
+KT101152,nudge to prepaid,nudge to prepaid,True
+KT100185,nudge to prepaid,nudge to prepaid,True
+KT101711,ship as-is,ship as-is,True
+KT100178,ship as-is,ship as-is,True
+KT101306,ship as-is,ship as-is,True
+KT101585,nudge to prepaid,nudge to prepaid,True
+KT101631,ship as-is,ship as-is,True
+KT101737,ship as-is,ship as-is,True
+KT100167,nudge to prepaid,nudge to prepaid,True
+KT100200,ship as-is,ship as-is,True
+KT100300,ship as-is,ship as-is,True
+KT100097,ship as-is,ship as-is,True
+KT100788,ship as-is,ship as-is,True
+KT100231,ship as-is,ship as-is,True
+KT100074,nudge to prepaid,nudge to prepaid,True
+KT101281,ship as-is,ship as-is,True
+KT100177,ship as-is,ship as-is,True
+KT100870,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101538,ship as-is,ship as-is,True
+KT100338,ship as-is,ship as-is,True
+KT100363,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100754,nudge to prepaid,nudge to prepaid,True
+KT101418,ship as-is,ship as-is,True
+KT101892,ship as-is,ship as-is,True
+KT100571,nudge to prepaid,nudge to prepaid,True
+KT100194,ship as-is,ship as-is,True
+KT101491,nudge to prepaid,nudge to prepaid,True
+KT100257,nudge to prepaid,nudge to prepaid,True
+KT100646,nudge to prepaid,nudge to prepaid,True
+KT101778,nudge to prepaid,nudge to prepaid,True
+KT100698,nudge to prepaid,nudge to prepaid,True
+KT101270,ship as-is,ship as-is,True
+KT100777,ship as-is,ship as-is,True
+KT100514,ship as-is,ship as-is,True
+KT100326,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101230,ship as-is,ship as-is,True
+KT100664,ship as-is,ship as-is,True
+KT100960,ship as-is,ship as-is,True
+KT100687,ship as-is,ship as-is,True
+KT100894,hold/cancel,hold/cancel,True
+KT100801,nudge to prepaid,nudge to prepaid,True
+KT100952,ship as-is,ship as-is,True
+KT100650,ship as-is,ship as-is,True
+KT101952,ship as-is,ship as-is,True
+KT100011,ship as-is,ship as-is,True
+KT100795,ship as-is,ship as-is,True
+KT100534,ship as-is,ship as-is,True
+KT100862,nudge to prepaid,nudge to prepaid,True
+KT100240,ship as-is,ship as-is,True
+KT100589,ship as-is,ship as-is,True
+KT101143,ship as-is,ship as-is,True
+KT100136,nudge to prepaid,nudge to prepaid,True
+KT101205,ship as-is,ship as-is,True
+KT100019,ship as-is,ship as-is,True
+KT101610,ship as-is,ship as-is,True
+KT100364,nudge to prepaid,nudge to prepaid,True
+KT101958,ship as-is,ship as-is,True
+KT101298,nudge to prepaid,nudge to prepaid,True
+KT101354,nudge to prepaid,nudge to prepaid,True
+KT101390,ship as-is,ship as-is,True
+KT100591,nudge to prepaid,nudge to prepaid,True
+KT101018,nudge to prepaid,nudge to prepaid,True
+KT101570,ship as-is,ship as-is,True
+KT100155,ship as-is,ship as-is,True
+KT101351,ship as-is,ship as-is,True
+KT100254,nudge to prepaid,nudge to prepaid,True
+KT100505,nudge to prepaid,nudge to prepaid,True
+KT100296,nudge to prepaid,nudge to prepaid,True
+KT101651,nudge to prepaid,nudge to prepaid,True
+KT101427,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101336,ship as-is,ship as-is,True
+KT100308,nudge to prepaid,nudge to prepaid,True
+KT100470,ship as-is,ship as-is,True
+KT100119,ship as-is,ship as-is,True
+KT101288,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100504,nudge to prepaid,nudge to prepaid,True
+KT101368,ship as-is,ship as-is,True
+KT101536,ship as-is,ship as-is,True
+KT100081,nudge to prepaid,nudge to prepaid,True
+KT101771,ship as-is,ship as-is,True
+KT100602,nudge to prepaid,nudge to prepaid,True
+KT101611,ship as-is,ship as-is,True
+KT101163,ship as-is,ship as-is,True
+KT100137,ship as-is,ship as-is,True
+KT101919,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101432,ship as-is,ship as-is,True
+KT100851,ship as-is,ship as-is,True
+KT101781,nudge to prepaid,nudge to prepaid,True
+KT101831,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100210,nudge to prepaid,nudge to prepaid,True
+KT101406,nudge to prepaid,nudge to prepaid,True
+KT101385,nudge to prepaid,nudge to prepaid,True
+KT101770,ship as-is,ship as-is,True
+KT101030,ship as-is,ship as-is,True
+KT100474,ship as-is,ship as-is,True
+KT100522,ship as-is,ship as-is,True
+KT101568,ship as-is,ship as-is,True
+KT101136,ship as-is,ship as-is,True
+KT100616,ship as-is,ship as-is,True
+KT100810,ship as-is,ship as-is,True
+KT101670,ship as-is,ship as-is,True
+KT100550,ship as-is,ship as-is,True
+KT100497,ship as-is,ship as-is,True
+KT100573,ship as-is,ship as-is,True
+KT101709,ship as-is,ship as-is,True
+KT101081,ship as-is,ship as-is,True
+KT101747,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101159,ship as-is,ship as-is,True
+KT100982,nudge to prepaid,nudge to prepaid,True
+KT101813,ship as-is,ship as-is,True
+KT100385,ship as-is,ship as-is,True
+KT101475,nudge to prepaid,nudge to prepaid,True
+KT100467,ship as-is,ship as-is,True
+KT101167,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101265,ship as-is,ship as-is,True
+KT101323,nudge to prepaid,nudge to prepaid,True
+KT100887,ship as-is,ship as-is,True
+KT100599,nudge to prepaid,nudge to prepaid,True
+KT101327,nudge to prepaid,nudge to prepaid,True
+KT100942,ship as-is,ship as-is,True
+KT100972,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101487,nudge to prepaid,nudge to prepaid,True
+KT100510,ship as-is,ship as-is,True
+KT100606,nudge to prepaid,nudge to prepaid,True
+KT101286,ship as-is,ship as-is,True
+KT101674,ship as-is,ship as-is,True
+KT101049,nudge to prepaid,nudge to prepaid,True
+KT101728,ship as-is,ship as-is,True
+KT101157,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100677,nudge to prepaid,nudge to prepaid,True
+KT100490,ship as-is,ship as-is,True
+KT101802,ship as-is,ship as-is,True
+KT100930,ship as-is,ship as-is,True
+KT101666,nudge to prepaid,nudge to prepaid,True
+KT100715,hold/cancel,hold/cancel,True
+KT101510,nudge to prepaid,nudge to prepaid,True
+KT101000,nudge to prepaid,nudge to prepaid,True
+KT100622,ship as-is,ship as-is,True
+KT101760,ship as-is,ship as-is,True
+KT100077,ship as-is,ship as-is,True
+KT101195,nudge to prepaid,nudge to prepaid,True
+KT100058,ship as-is,ship as-is,True
+KT101121,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101926,ship as-is,ship as-is,True
+KT101762,nudge to prepaid,nudge to prepaid,True
+KT101366,nudge to prepaid,nudge to prepaid,True
+KT100786,ship as-is,ship as-is,True
+KT101469,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100834,nudge to prepaid,nudge to prepaid,True
+KT101796,nudge to prepaid,nudge to prepaid,True
+KT100102,ship as-is,ship as-is,True
+KT101125,ship as-is,ship as-is,True
+KT101710,nudge to prepaid,nudge to prepaid,True
+KT101623,ship as-is,ship as-is,True
+KT100819,ship as-is,ship as-is,True
+KT100815,ship as-is,ship as-is,True
+KT100761,ship as-is,ship as-is,True
+KT100985,ship as-is,ship as-is,True
+KT101661,ship as-is,ship as-is,True
+KT101480,ship as-is,ship as-is,True
+KT101909,ship as-is,ship as-is,True
+KT100229,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100453,nudge to prepaid,nudge to prepaid,True
+KT100309,ship as-is,ship as-is,True
+KT100164,ship as-is,ship as-is,True
+KT101517,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100987,ship as-is,ship as-is,True
+KT100333,ship as-is,ship as-is,True
+KT150333,ship as-is,ship as-is,True
+KT100484,ship as-is,ship as-is,True
+KT101129,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101218,ship as-is,ship as-is,True
+KT100225,ship as-is,ship as-is,True
+KT100554,ship as-is,ship as-is,True
+KT100441,ship as-is,ship as-is,True
+KT100958,nudge to prepaid,nudge to prepaid,True
+KT100386,ship as-is,ship as-is,True
+KT101929,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101957,ship as-is,ship as-is,True
+KT100242,ship as-is,ship as-is,True
+KT100712,ship as-is,ship as-is,True
+KT100246,nudge to prepaid,nudge to prepaid,True
+KT101447,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101910,ship as-is,ship as-is,True
+KT101305,ship as-is,ship as-is,True
+KT101331,nudge to prepaid,nudge to prepaid,True
+KT101377,ship as-is,ship as-is,True
+KT101893,ship as-is,ship as-is,True
+KT100311,ship as-is,ship as-is,True
+KT100142,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101954,nudge to prepaid,nudge to prepaid,True
+KT101637,ship as-is,ship as-is,True
+KT100394,ship as-is,ship as-is,True
+KT100451,nudge to prepaid,nudge to prepaid,True
+KT101768,ship as-is,ship as-is,True
+KT101745,nudge to prepaid,nudge to prepaid,True
+KT151745,nudge to prepaid,nudge to prepaid,True
+KT100369,ship as-is,ship as-is,True
+KT100607,nudge to prepaid,nudge to prepaid,True
+KT101262,ship as-is,ship as-is,True
+KT100268,ship as-is,ship as-is,True
+KT101612,ship as-is,ship as-is,True
+KT100759,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100957,ship as-is,ship as-is,True
+KT101879,nudge to prepaid,nudge to prepaid,True
+KT101350,ship as-is,ship as-is,True
+KT100969,nudge to prepaid,nudge to prepaid,True
+KT100614,nudge to prepaid,nudge to prepaid,True
+KT100313,ship as-is,ship as-is,True
+KT100149,ship as-is,ship as-is,True
+KT101844,ship as-is,ship as-is,True
+KT101451,ship as-is,ship as-is,True
+KT100107,ship as-is,ship as-is,True
+KT100907,ship as-is,ship as-is,True
+KT101800,ship as-is,ship as-is,True
+KT100024,ship as-is,ship as-is,True
+KT100007,nudge to prepaid,nudge to prepaid,True
+KT102001,nudge to prepaid,nudge to prepaid,True
+KT100195,nudge to prepaid,nudge to prepaid,True
+KT100741,ship as-is,ship as-is,True
+KT101359,ship as-is,ship as-is,True
+KT101774,ship as-is,ship as-is,True
+KT101202,nudge to prepaid,nudge to prepaid,True
+KT101243,nudge to prepaid,nudge to prepaid,True
+KT100397,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101184,ship as-is,ship as-is,True
+KT101308,ship as-is,ship as-is,True
+KT101192,nudge to prepaid,nudge to prepaid,True
+KT100968,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101956,ship as-is,ship as-is,True
+KT100477,ship as-is,ship as-is,True
+KT100384,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100658,ship as-is,ship as-is,True
+KT100161,nudge to prepaid,nudge to prepaid,True
+KT101025,nudge to prepaid,nudge to prepaid,True
+KT101840,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100799,ship as-is,ship as-is,True
+KT101932,nudge to prepaid,nudge to prepaid,True
+KT101426,ship as-is,ship as-is,True
+KT101094,ship as-is,ship as-is,True
+KT100513,nudge to prepaid,nudge to prepaid,True
+KT100073,ship as-is,ship as-is,True
+KT100427,ship as-is,ship as-is,True
+KT100653,ship as-is,ship as-is,True
+KT100548,nudge to prepaid,nudge to prepaid,True
+KT100115,ship as-is,ship as-is,True
+KT101271,nudge to prepaid,nudge to prepaid,True
+KT100287,ship as-is,ship as-is,True
+KT101258,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100998,nudge to prepaid,nudge to prepaid,True
+KT100120,nudge to prepaid,nudge to prepaid,True
+KT100676,ship as-is,ship as-is,True
+KT100939,ship as-is,ship as-is,True
+KT101395,ship as-is,ship as-is,True
+KT100596,ship as-is,ship as-is,True
+KT101453,ship as-is,ship as-is,True
+KT101946,ship as-is,ship as-is,True
+KT100361,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101700,ship as-is,ship as-is,True
+KT100103,ship as-is,ship as-is,True
+KT100138,ship as-is,ship as-is,True
+KT100710,nudge to prepaid,nudge to prepaid,True
+KT101516,ship as-is,ship as-is,True
+KT100063,nudge to prepaid,nudge to prepaid,True
+KT101180,ship as-is,ship as-is,True
+KT101156,ship as-is,ship as-is,True
+KT100189,ship as-is,ship as-is,True
+KT101553,nudge to prepaid,nudge to prepaid,True
+KT101046,ship as-is,ship as-is,True
+KT100691,ship as-is,ship as-is,True
+KT101821,ship as-is,ship as-is,True
+KT101959,ship as-is,ship as-is,True
+KT101726,nudge to prepaid,nudge to prepaid,True
+KT100949,ship as-is,ship as-is,True
+KT100207,ship as-is,ship as-is,True
+KT101656,ship as-is,ship as-is,True
+KT101434,nudge to prepaid,nudge to prepaid,True
+KT151434,nudge to prepaid,nudge to prepaid,True
+KT100964,ship as-is,ship as-is,True
+KT100954,ship as-is,ship as-is,True
+KT100465,ship as-is,ship as-is,True
+KT100211,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101310,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101945,ship as-is,ship as-is,True
+KT101312,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101319,ship as-is,ship as-is,True
+KT100117,ship as-is,ship as-is,True
+KT101190,ship as-is,ship as-is,True
+KT100772,ship as-is,ship as-is,True
+KT100866,ship as-is,ship as-is,True
+KT100778,ship as-is,ship as-is,True
+KT100110,ship as-is,ship as-is,True
+KT101707,ship as-is,ship as-is,True
+KT100757,ship as-is,ship as-is,True
+KT101099,ship as-is,ship as-is,True
+KT100447,ship as-is,ship as-is,True
+KT100070,nudge to prepaid,nudge to prepaid,True
+KT100349,ship as-is,ship as-is,True
+KT101887,hold/cancel,hold/cancel,True
+KT101112,ship as-is,ship as-is,True
+KT101140,ship as-is,ship as-is,True
+KT100863,ship as-is,ship as-is,True
+KT101492,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101285,nudge to prepaid,nudge to prepaid,True
+KT100918,ship as-is,ship as-is,True
+KT101682,ship as-is,ship as-is,True
+KT100669,ship as-is,ship as-is,True
+KT101206,nudge to prepaid,nudge to prepaid,True
+KT101086,nudge to prepaid,nudge to prepaid,True
+KT100297,ship as-is,ship as-is,True
+KT100401,ship as-is,ship as-is,True
+KT100540,ship as-is,ship as-is,True
+KT101559,ship as-is,ship as-is,True
+KT100633,nudge to prepaid,nudge to prepaid,True
+KT101594,ship as-is,ship as-is,True
+KT100512,nudge to prepaid,nudge to prepaid,True
+KT101907,ship as-is,ship as-is,True
+KT101289,nudge to prepaid,nudge to prepaid,True
+KT100380,nudge to prepaid,nudge to prepaid,True
+KT100790,ship as-is,ship as-is,True
+KT100288,ship as-is,ship as-is,True
+KT100956,ship as-is,ship as-is,True
+KT100053,nudge to prepaid,nudge to prepaid,True
+KT101398,ship as-is,ship as-is,True
+KT100192,ship as-is,ship as-is,True
+KT100125,ship as-is,ship as-is,True
+KT101294,ship as-is,ship as-is,True
+KT101543,ship as-is,ship as-is,True
+KT100046,nudge to prepaid,nudge to prepaid,True
+KT100190,ship as-is,ship as-is,True
+KT100127,ship as-is,ship as-is,True
+KT101251,ship as-is,ship as-is,True
+KT100657,ship as-is,ship as-is,True
+KT101110,ship as-is,ship as-is,True
+KT100830,ship as-is,ship as-is,True
+KT100872,nudge to prepaid,nudge to prepaid,True
+KT101291,ship as-is,ship as-is,True
+KT100065,ship as-is,ship as-is,True
+KT101036,ship as-is,ship as-is,True
+KT100773,ship as-is,ship as-is,True
+KT101077,ship as-is,ship as-is,True
+KT100662,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101454,nudge to prepaid,nudge to prepaid,True
+KT101658,ship as-is,ship as-is,True
+KT100085,ship as-is,ship as-is,True
+KT100518,ship as-is,ship as-is,True
+KT101181,nudge to prepaid,nudge to prepaid,True
+KT101794,ship as-is,ship as-is,True
+KT101798,ship as-is,ship as-is,True
+KT101827,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100807,ship as-is,ship as-is,True
+KT100088,ship as-is,ship as-is,True
+KT150088,ship as-is,ship as-is,True
+KT100551,ship as-is,ship as-is,True
+KT101194,ship as-is,ship as-is,True
+KT100130,nudge to prepaid,nudge to prepaid,True
+KT100605,nudge to prepaid,nudge to prepaid,True
+KT100623,ship as-is,ship as-is,True
+KT101659,ship as-is,ship as-is,True
+KT100424,ship as-is,ship as-is,True
+KT101555,ship as-is,ship as-is,True
+KT100034,ship as-is,ship as-is,True
+KT101808,nudge to prepaid,nudge to prepaid,True
+KT100874,ship as-is,ship as-is,True
+KT100144,ship as-is,ship as-is,True
+KT100549,ship as-is,ship as-is,True
+KT100628,nudge to prepaid,nudge to prepaid,True
+KT100619,ship as-is,ship as-is,True
+KT101906,nudge to prepaid,nudge to prepaid,True
+KT100123,nudge to prepaid,nudge to prepaid,True
+KT100084,ship as-is,ship as-is,True
+KT101853,ship as-is,ship as-is,True
+KT100617,ship as-is,ship as-is,True
+KT100114,nudge to prepaid,nudge to prepaid,True
+KT150114,nudge to prepaid,nudge to prepaid,True
+KT101360,ship as-is,ship as-is,True
+KT100855,ship as-is,ship as-is,True
+KT100495,nudge to prepaid,nudge to prepaid,True
+KT100413,ship as-is,ship as-is,True
+KT100729,nudge to prepaid,nudge to prepaid,True
+KT101212,ship as-is,ship as-is,True
+KT101643,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100365,ship as-is,ship as-is,True
+KT101033,ship as-is,ship as-is,True
+KT100705,ship as-is,ship as-is,True
+KT101008,ship as-is,ship as-is,True
+KT100527,ship as-is,ship as-is,True
+KT101334,nudge to prepaid,nudge to prepaid,True
+KT101478,ship as-is,ship as-is,True
+KT101198,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100679,ship as-is,ship as-is,True
+KT101734,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100980,ship as-is,ship as-is,True
+KT101483,ship as-is,ship as-is,True
+KT100002,ship as-is,ship as-is,True
+KT101678,ship as-is,ship as-is,True
+KT101587,ship as-is,ship as-is,True
+KT100509,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101868,nudge to prepaid,nudge to prepaid,True
+KT100452,nudge to prepaid,nudge to prepaid,True
+KT100578,ship as-is,ship as-is,True
+KT101373,ship as-is,ship as-is,True
+KT101023,ship as-is,ship as-is,True
+KT100273,ship as-is,ship as-is,True
+KT101414,ship as-is,ship as-is,True
+KT101806,ship as-is,ship as-is,True
+KT101045,nudge to prepaid,nudge to prepaid,True
+KT100033,ship as-is,ship as-is,True
+KT100835,nudge to prepaid,nudge to prepaid,True
+KT100654,ship as-is,ship as-is,True
+KT101387,nudge to prepaid,nudge to prepaid,True
+KT101888,nudge to prepaid,nudge to prepaid,True
+KT100283,nudge to prepaid,nudge to prepaid,True
+KT100660,nudge to prepaid,nudge to prepaid,True
+KT101333,ship as-is,ship as-is,True
+KT100348,ship as-is,ship as-is,True
+KT100414,ship as-is,ship as-is,True
+KT100068,ship as-is,ship as-is,True
+KT101458,ship as-is,ship as-is,True
+KT100393,ship as-is,ship as-is,True
+KT101044,ship as-is,ship as-is,True
+KT100250,ship as-is,ship as-is,True
+KT100227,ship as-is,ship as-is,True
+KT101769,ship as-is,ship as-is,True
+KT100244,ship as-is,ship as-is,True
+KT100395,ship as-is,ship as-is,True
+KT100067,ship as-is,ship as-is,True
+KT100272,ship as-is,ship as-is,True
+KT100315,ship as-is,ship as-is,True
+KT100069,ship as-is,ship as-is,True
+KT101920,ship as-is,ship as-is,True
+KT100282,nudge to prepaid,nudge to prepaid,True
+KT101098,ship as-is,ship as-is,True
+KT101411,nudge to prepaid,nudge to prepaid,True
+KT100323,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101396,nudge to prepaid,nudge to prepaid,True
+KT100048,ship as-is,ship as-is,True
+KT100867,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100220,ship as-is,ship as-is,True
+KT100020,ship as-is,ship as-is,True
+KT100420,ship as-is,ship as-is,True
+KT101461,ship as-is,ship as-is,True
+KT151461,ship as-is,ship as-is,True
+KT100620,ship as-is,ship as-is,True
+KT100390,ship as-is,ship as-is,True
+KT101389,ship as-is,ship as-is,True
+KT101885,nudge to prepaid,nudge to prepaid,True
+KT101679,ship as-is,ship as-is,True
+KT100400,nudge to prepaid,nudge to prepaid,True
+KT101233,ship as-is,ship as-is,True
+KT101349,ship as-is,ship as-is,True
+KT101295,nudge to prepaid,nudge to prepaid,True
+KT101188,ship as-is,ship as-is,True
+KT101782,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101162,ship as-is,ship as-is,True
+KT100951,nudge to prepaid,nudge to prepaid,True
+KT101043,nudge to prepaid,nudge to prepaid,True
+KT101245,ship as-is,ship as-is,True
+KT100126,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101648,ship as-is,ship as-is,True
+KT100302,ship as-is,ship as-is,True
+KT101278,nudge to prepaid,nudge to prepaid,True
+KT101923,ship as-is,ship as-is,True
+KT101403,nudge to prepaid,nudge to prepaid,True
+KT101119,ship as-is,ship as-is,True
+KT100507,ship as-is,ship as-is,True
+KT101142,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100419,ship as-is,ship as-is,True
+KT101773,ship as-is,ship as-is,True
+KT100720,ship as-is,ship as-is,True
+KT101741,ship as-is,ship as-is,True
+KT101078,ship as-is,ship as-is,True
+KT100143,nudge to prepaid,nudge to prepaid,True
+KT100434,ship as-is,ship as-is,True
+KT100466,ship as-is,ship as-is,True
+KT101716,ship as-is,ship as-is,True
+KT101365,ship as-is,ship as-is,True
+KT100456,ship as-is,ship as-is,True
+KT100686,ship as-is,ship as-is,True
+KT101460,ship as-is,ship as-is,True
+KT101934,ship as-is,ship as-is,True
+KT101549,ship as-is,ship as-is,True
+KT101890,ship as-is,ship as-is,True
+KT100640,ship as-is,ship as-is,True
+KT100728,ship as-is,ship as-is,True
+KT100630,ship as-is,ship as-is,True
+KT100396,ship as-is,ship as-is,True
+KT100146,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100141,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100921,ship as-is,ship as-is,True
+KT101053,ship as-is,ship as-is,True
+KT100953,ship as-is,ship as-is,True
+KT100471,nudge to prepaid,nudge to prepaid,True
+KT101100,ship as-is,ship as-is,True
+KT101845,ship as-is,ship as-is,True
+KT100752,nudge to prepaid,nudge to prepaid,True
+KT101852,nudge to prepaid,nudge to prepaid,True
+KT151852,nudge to prepaid,nudge to prepaid,True
+KT100304,ship as-is,ship as-is,True
+KT101859,ship as-is,ship as-is,True
+KT101250,ship as-is,ship as-is,True
+KT101021,ship as-is,ship as-is,True
+KT101795,nudge to prepaid,nudge to prepaid,True
+KT100774,ship as-is,ship as-is,True
+KT101775,ship as-is,ship as-is,True
+KT101749,nudge to prepaid,nudge to prepaid,True
+KT101680,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101268,nudge to prepaid,nudge to prepaid,True
+KT100307,ship as-is,ship as-is,True
+KT101178,ship as-is,ship as-is,True
+KT100293,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101353,ship as-is,ship as-is,True
+KT101565,nudge to prepaid,nudge to prepaid,True
+KT101187,ship as-is,ship as-is,True
+KT100093,ship as-is,ship as-is,True
+KT101065,nudge to prepaid,nudge to prepaid,True
+KT100688,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100214,ship as-is,ship as-is,True
+KT101825,ship as-is,ship as-is,True
+KT101471,ship as-is,ship as-is,True
+KT101145,ship as-is,ship as-is,True
+KT101415,nudge to prepaid,nudge to prepaid,True
+KT101082,ship as-is,ship as-is,True
+KT101947,ship as-is,ship as-is,True
+KT101072,nudge to prepaid,nudge to prepaid,True
+KT100974,ship as-is,ship as-is,True
+KT101141,ship as-is,ship as-is,True
+KT101343,ship as-is,ship as-is,True
+KT101671,ship as-is,ship as-is,True
+KT100012,ship as-is,ship as-is,True
+KT100948,ship as-is,ship as-is,True
+KT100827,ship as-is,ship as-is,True
+KT100222,ship as-is,ship as-is,True
+KT100381,ship as-is,ship as-is,True
+KT100271,ship as-is,ship as-is,True
+KT100767,nudge to prepaid,nudge to prepaid,True
+KT150767,nudge to prepaid,nudge to prepaid,True
+KT101316,ship as-is,ship as-is,True
+KT100186,nudge to prepaid,nudge to prepaid,True
+KT100500,ship as-is,ship as-is,True
+KT100472,ship as-is,ship as-is,True
+KT101335,ship as-is,ship as-is,True
+KT101582,nudge to prepaid,nudge to prepaid,True
+KT100038,ship as-is,ship as-is,True
+KT101165,ship as-is,ship as-is,True
+KT101274,ship as-is,ship as-is,True
+KT101523,nudge to prepaid,nudge to prepaid,True
+KT100937,ship as-is,ship as-is,True
+KT101638,nudge to prepaid,nudge to prepaid,True
+KT101616,ship as-is,ship as-is,True
+KT101889,ship as-is,ship as-is,True
+KT100812,nudge to prepaid,nudge to prepaid,True
+KT100148,ship as-is,ship as-is,True
+KT100642,ship as-is,ship as-is,True
+KT100160,ship as-is,ship as-is,True
+KT101182,ship as-is,ship as-is,True
+KT101618,ship as-is,ship as-is,True
+KT101626,ship as-is,ship as-is,True
+KT100858,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101357,ship as-is,ship as-is,True
+KT101683,ship as-is,ship as-is,True
+KT100170,ship as-is,ship as-is,True
+KT101054,nudge to prepaid,nudge to prepaid,True
+KT100356,ship as-is,ship as-is,True
+KT101662,ship as-is,ship as-is,True
+KT100850,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101370,ship as-is,ship as-is,True
+KT100760,nudge to prepaid,nudge to prepaid,True
+KT101736,ship as-is,ship as-is,True
+KT100153,nudge to prepaid,nudge to prepaid,True
+KT100816,ship as-is,ship as-is,True
+KT100503,ship as-is,ship as-is,True
+KT100202,ship as-is,ship as-is,True
+KT101221,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101115,ship as-is,ship as-is,True
+KT100588,ship as-is,ship as-is,True
+KT100837,nudge to prepaid,nudge to prepaid,True
+KT101300,ship as-is,ship as-is,True
+KT101878,ship as-is,ship as-is,True
+KT100262,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100758,ship as-is,ship as-is,True
+KT100584,nudge to prepaid,nudge to prepaid,True
+KT100593,ship as-is,ship as-is,True
+KT100286,ship as-is,ship as-is,True
+KT101239,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100992,nudge to prepaid,nudge to prepaid,True
+KT100750,nudge to prepaid,nudge to prepaid,True
+KT100099,ship as-is,ship as-is,True
+KT101948,ship as-is,ship as-is,True
+KT101393,nudge to prepaid,nudge to prepaid,True
+KT100975,ship as-is,ship as-is,True
+KT100732,ship as-is,ship as-is,True
+KT100595,nudge to prepaid,nudge to prepaid,True
+KT100916,nudge to prepaid,nudge to prepaid,True
+KT101652,nudge to prepaid,nudge to prepaid,True
+KT101690,ship as-is,ship as-is,True
+KT100792,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101609,ship as-is,ship as-is,True
+KT100277,ship as-is,ship as-is,True
+KT101883,nudge to prepaid,nudge to prepaid,True
+KT100995,nudge to prepaid,nudge to prepaid,True
+KT100897,ship as-is,ship as-is,True
+KT100235,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100889,nudge to prepaid,nudge to prepaid,True
+KT100926,ship as-is,ship as-is,True
+KT101641,ship as-is,ship as-is,True
+KT101481,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100196,ship as-is,ship as-is,True
+KT100354,ship as-is,ship as-is,True
+KT100818,nudge to prepaid,nudge to prepaid,True
+KT100055,nudge to prepaid,nudge to prepaid,True
+KT100876,ship as-is,ship as-is,True
+KT101922,ship as-is,ship as-is,True
+KT100933,ship as-is,ship as-is,True
+KT100289,nudge to prepaid,nudge to prepaid,True
+KT101436,nudge to prepaid,nudge to prepaid,True
+KT101128,ship as-is,ship as-is,True
+KT101567,nudge to prepaid,nudge to prepaid,True
+KT100625,ship as-is,ship as-is,True
+KT101527,nudge to prepaid,nudge to prepaid,True
+KT100193,nudge to prepaid,nudge to prepaid,True
+KT150193,nudge to prepaid,nudge to prepaid,True
+KT100398,ship as-is,ship as-is,True
+KT101302,nudge to prepaid,nudge to prepaid,True
+KT101144,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100579,ship as-is,ship as-is,True
+KT101836,ship as-is,ship as-is,True
+KT101164,ship as-is,ship as-is,True
+KT101355,ship as-is,ship as-is,True
+KT100604,ship as-is,ship as-is,True
+KT100935,ship as-is,ship as-is,True
+KT100831,nudge to prepaid,nudge to prepaid,True
+KT101783,ship as-is,ship as-is,True
+KT101509,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100258,ship as-is,ship as-is,True
+KT101085,nudge to prepaid,nudge to prepaid,True
+KT101899,nudge to prepaid,nudge to prepaid,True
+KT101882,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100374,ship as-is,ship as-is,True
+KT101727,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101328,ship as-is,ship as-is,True
+KT100854,ship as-is,ship as-is,True
+KT101465,ship as-is,ship as-is,True
+KT100853,nudge to prepaid,nudge to prepaid,True
+KT100359,ship as-is,ship as-is,True
+KT101229,ship as-is,ship as-is,True
+KT100037,nudge to prepaid,nudge to prepaid,True
+KT100879,nudge to prepaid,nudge to prepaid,True
+KT100094,ship as-is,ship as-is,True
+KT100078,nudge to prepaid,nudge to prepaid,True
+KT101632,nudge to prepaid,nudge to prepaid,True
+KT100966,ship as-is,ship as-is,True
+KT100368,nudge to prepaid,nudge to prepaid,True
+KT100440,nudge to prepaid,nudge to prepaid,True
+KT100445,ship as-is,ship as-is,True
+KT101843,ship as-is,ship as-is,True
+KT100223,ship as-is,ship as-is,True
+KT100545,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101342,ship as-is,ship as-is,True
+KT100230,ship as-is,ship as-is,True
+KT100403,ship as-is,ship as-is,True
+KT100888,ship as-is,ship as-is,True
+KT101691,nudge to prepaid,nudge to prepaid,True
+KT100473,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101649,ship as-is,ship as-is,True
+KT101462,ship as-is,ship as-is,True
+KT100116,ship as-is,ship as-is,True
+KT100655,ship as-is,ship as-is,True
+KT101914,ship as-is,ship as-is,True
+KT100721,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100128,ship as-is,ship as-is,True
+KT101577,ship as-is,ship as-is,True
+KT101931,ship as-is,ship as-is,True
+KT101040,nudge to prepaid,nudge to prepaid,True
+KT100459,ship as-is,ship as-is,True
+KT100408,ship as-is,ship as-is,True
+KT101811,nudge to prepaid,nudge to prepaid,True
+KT101817,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101863,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101002,ship as-is,ship as-is,True
+KT100493,ship as-is,ship as-is,True
+KT101438,ship as-is,ship as-is,True
+KT101735,ship as-is,ship as-is,True
+KT101542,ship as-is,ship as-is,True
+KT100627,ship as-is,ship as-is,True
+KT101763,nudge to prepaid,nudge to prepaid,True
+KT100013,nudge to prepaid,nudge to prepaid,True
+KT101832,ship as-is,ship as-is,True
+KT100594,nudge to prepaid,nudge to prepaid,True
+KT100041,ship as-is,ship as-is,True
+KT100611,nudge to prepaid,nudge to prepaid,True
+KT101814,nudge to prepaid,nudge to prepaid,True
+KT100990,ship as-is,ship as-is,True
+KT101261,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100601,nudge to prepaid,nudge to prepaid,True
+KT101264,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100667,ship as-is,ship as-is,True
+KT100259,ship as-is,ship as-is,True
+KT100713,nudge to prepaid,nudge to prepaid,True
+KT100569,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100372,ship as-is,ship as-is,True
+KT150372,ship as-is,ship as-is,True
+KT101746,ship as-is,ship as-is,True
+KT100217,nudge to prepaid,nudge to prepaid,True
+KT101646,nudge to prepaid,nudge to prepaid,True
+KT101203,nudge to prepaid,nudge to prepaid,True
+KT101283,ship as-is,ship as-is,True
+KT101740,nudge to prepaid,nudge to prepaid,True
+KT101371,nudge to prepaid,nudge to prepaid,True
+KT100781,nudge to prepaid,nudge to prepaid,True
+KT101540,ship as-is,ship as-is,True
+KT101226,nudge to prepaid,nudge to prepaid,True
+KT100979,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101501,ship as-is,ship as-is,True
+KT100925,nudge to prepaid,nudge to prepaid,True
+KT101363,ship as-is,ship as-is,True
+KT100864,nudge to prepaid,nudge to prepaid,True
+KT100080,ship as-is,ship as-is,True
+KT100666,ship as-is,ship as-is,True
+KT100132,nudge to prepaid,nudge to prepaid,True
+KT100901,ship as-is,ship as-is,True
+KT100857,nudge to prepaid,nudge to prepaid,True
+KT101234,nudge to prepaid,nudge to prepaid,True
+KT100946,nudge to prepaid,nudge to prepaid,True
+KT100529,ship as-is,ship as-is,True
+KT100151,ship as-is,ship as-is,True
+KT101076,ship as-is,ship as-is,True
+KT100377,ship as-is,ship as-is,True
+KT101242,ship as-is,ship as-is,True
+KT100892,ship as-is,ship as-is,True
+KT101404,nudge to prepaid,nudge to prepaid,True
+KT101917,ship as-is,ship as-is,True
+KT100206,ship as-is,ship as-is,True
+KT101753,ship as-is,ship as-is,True
+KT100319,ship as-is,ship as-is,True
+KT100553,ship as-is,ship as-is,True
+KT100328,ship as-is,ship as-is,True
+KT100868,nudge to prepaid,nudge to prepaid,True
+KT101103,ship as-is,ship as-is,True
+KT151103,ship as-is,ship as-is,True
+KT101880,ship as-is,ship as-is,True
+KT100520,nudge to prepaid,nudge to prepaid,True
+KT100936,ship as-is,ship as-is,True
+KT101309,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100967,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101435,ship as-is,ship as-is,True
+KT101222,ship as-is,ship as-is,True
+KT100042,nudge to prepaid,nudge to prepaid,True
+KT100580,ship as-is,ship as-is,True
+KT101615,ship as-is,ship as-is,True
+KT100924,nudge to prepaid,nudge to prepaid,True
+KT100852,ship as-is,ship as-is,True
+KT100314,ship as-is,ship as-is,True
+KT100806,ship as-is,ship as-is,True
+KT150806,ship as-is,ship as-is,True
+KT101835,nudge to prepaid,nudge to prepaid,True
+KT100976,nudge to prepaid,nudge to prepaid,True
+KT100557,nudge to prepaid,nudge to prepaid,True
+KT100651,ship as-is,ship as-is,True
+KT101574,nudge to prepaid,nudge to prepaid,True
+KT101894,ship as-is,ship as-is,True
+KT100260,ship as-is,ship as-is,True
+KT100608,ship as-is,ship as-is,True
+KT101520,ship as-is,ship as-is,True
+KT101786,nudge to prepaid,nudge to prepaid,True
+KT101220,ship as-is,ship as-is,True
+KT101870,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101629,ship as-is,ship as-is,True
+KT100004,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100656,ship as-is,ship as-is,True
+KT101702,ship as-is,ship as-is,True
+KT101877,ship as-is,ship as-is,True
+KT101865,ship as-is,ship as-is,True
+KT100962,ship as-is,ship as-is,True
+KT100524,ship as-is,ship as-is,True
+KT100406,nudge to prepaid,nudge to prepaid,True
+KT101738,ship as-is,ship as-is,True
+KT101070,ship as-is,ship as-is,True
+KT101011,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100632,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101238,nudge to prepaid,nudge to prepaid,True
+KT101489,ship as-is,ship as-is,True
+KT101493,ship as-is,ship as-is,True
+KT101324,nudge to prepaid,nudge to prepaid,True
+KT100707,nudge to prepaid,nudge to prepaid,True
+KT100135,ship as-is,ship as-is,True
+KT101636,ship as-is,ship as-is,True
+KT101067,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100157,ship as-is,ship as-is,True
+KT101062,ship as-is,ship as-is,True
+KT100821,ship as-is,ship as-is,True
+KT100508,ship as-is,ship as-is,True
+KT101848,nudge to prepaid,nudge to prepaid,True
+KT100305,ship as-is,ship as-is,True
+KT100789,ship as-is,ship as-is,True
+KT101254,nudge to prepaid,nudge to prepaid,True
+KT100261,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101541,ship as-is,ship as-is,True
+KT101915,ship as-is,ship as-is,True
+KT101124,nudge to prepaid,nudge to prepaid,True
+KT100849,ship as-is,ship as-is,True
+KT101552,ship as-is,ship as-is,True
+KT101935,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100278,nudge to prepaid,nudge to prepaid,True
+KT101217,ship as-is,ship as-is,True
+KT101450,ship as-is,ship as-is,True
+KT100005,ship as-is,ship as-is,True
+KT100209,ship as-is,ship as-is,True
+KT100111,ship as-is,ship as-is,True
+KT100383,ship as-is,ship as-is,True
+KT100499,nudge to prepaid,nudge to prepaid,True
+KT100883,nudge to prepaid,nudge to prepaid,True
+KT100808,ship as-is,ship as-is,True
+KT100780,ship as-is,ship as-is,True
+KT101466,nudge to prepaid,nudge to prepaid,True
+KT100431,ship as-is,ship as-is,True
+KT100722,nudge to prepaid,nudge to prepaid,True
+KT100001,ship as-is,ship as-is,True
+KT100482,ship as-is,ship as-is,True
+KT101639,nudge to prepaid,nudge to prepaid,True
+KT100325,ship as-is,ship as-is,True
+KT100066,ship as-is,ship as-is,True
+KT100828,ship as-is,ship as-is,True
+KT100339,nudge to prepaid,nudge to prepaid,True
+KT101539,ship as-is,ship as-is,True
+KT100517,ship as-is,ship as-is,True
+KT100264,ship as-is,ship as-is,True
+KT100533,nudge to prepaid,nudge to prepaid,True
+KT101375,ship as-is,ship as-is,True
+KT100029,nudge to prepaid,nudge to prepaid,True
+KT100139,ship as-is,ship as-is,True
+KT101347,ship as-is,ship as-is,True
+KT101176,nudge to prepaid,nudge to prepaid,True
+KT101122,ship as-is,ship as-is,True
+KT100285,ship as-is,ship as-is,True
+KT101029,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101177,ship as-is,ship as-is,True
+KT101227,nudge to prepaid,nudge to prepaid,True
+KT101386,ship as-is,ship as-is,True
+KT100050,nudge to prepaid,nudge to prepaid,True
+KT101650,nudge to prepaid,nudge to prepaid,True
+KT101448,nudge to prepaid,nudge to prepaid,True
+KT101544,ship as-is,ship as-is,True
+KT100598,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101911,ship as-is,ship as-is,True
+KT100191,nudge to prepaid,nudge to prepaid,True
+KT100150,ship as-is,ship as-is,True
+KT100718,ship as-is,ship as-is,True
+KT100430,ship as-is,ship as-is,True
+KT100232,ship as-is,ship as-is,True
+KT101686,ship as-is,ship as-is,True
+KT100243,ship as-is,ship as-is,True
+KT100216,nudge to prepaid,nudge to prepaid,True
+KT100647,nudge to prepaid,nudge to prepaid,True
+KT100917,ship as-is,ship as-is,True
+KT101589,ship as-is,ship as-is,True
+KT101169,ship as-is,ship as-is,True
+KT100269,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100903,nudge to prepaid,nudge to prepaid,True
+KT101581,nudge to prepaid,nudge to prepaid,True
+KT101113,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101513,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101407,nudge to prepaid,nudge to prepaid,True
+KT101269,ship as-is,ship as-is,True
+KT100612,nudge to prepaid,nudge to prepaid,True
+KT101676,ship as-is,ship as-is,True
+KT100537,nudge to prepaid,nudge to prepaid,True
+KT101482,ship as-is,ship as-is,True
+KT101172,nudge to prepaid,nudge to prepaid,True
+KT100659,ship as-is,ship as-is,True
+KT100563,nudge to prepaid,nudge to prepaid,True
+KT101752,nudge to prepaid,nudge to prepaid,True
+KT100909,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100175,nudge to prepaid,nudge to prepaid,True
+KT101531,ship as-is,ship as-is,True
+KT100770,ship as-is,ship as-is,True
+KT100438,ship as-is,ship as-is,True
+KT100800,ship as-is,ship as-is,True
+KT100572,ship as-is,ship as-is,True
+KT100665,ship as-is,ship as-is,True
+KT101867,ship as-is,ship as-is,True
+KT151867,ship as-is,ship as-is,True
+KT101842,nudge to prepaid,nudge to prepaid,True
+KT101138,ship as-is,ship as-is,True
+KT100488,nudge to prepaid,nudge to prepaid,True
+KT100739,ship as-is,ship as-is,True
+KT101791,ship as-is,ship as-is,True
+KT100498,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100122,ship as-is,ship as-is,True
+KT100375,nudge to prepaid,nudge to prepaid,True
+KT101584,ship as-is,ship as-is,True
+KT100057,ship as-is,ship as-is,True
+KT101937,ship as-is,ship as-is,True
+KT100265,nudge to prepaid,nudge to prepaid,True
+KT100920,ship as-is,ship as-is,True
+KT101175,ship as-is,ship as-is,True
+KT100536,nudge to prepaid,nudge to prepaid,True
+KT101860,ship as-is,ship as-is,True
+KT101216,ship as-is,ship as-is,True
+KT101897,ship as-is,ship as-is,True
+KT101696,ship as-is,ship as-is,True
+KT100675,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101941,nudge to prepaid,nudge to prepaid,True
+KT100746,nudge to prepaid,nudge to prepaid,True
+KT100763,ship as-is,ship as-is,True
+KT100516,ship as-is,ship as-is,True
+KT100255,nudge to prepaid,nudge to prepaid,True
+KT100213,ship as-is,ship as-is,True
+KT100016,ship as-is,ship as-is,True
+KT100404,ship as-is,ship as-is,True
+KT101614,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100885,ship as-is,ship as-is,True
+KT100875,ship as-is,ship as-is,True
+KT100449,ship as-is,ship as-is,True
+KT101955,nudge to prepaid,nudge to prepaid,True
+KT151955,nudge to prepaid,nudge to prepaid,True
+KT100817,ship as-is,ship as-is,True
+KT101032,nudge to prepaid,nudge to prepaid,True
+KT101215,ship as-is,ship as-is,True
+KT101379,ship as-is,ship as-is,True
+KT101132,ship as-is,ship as-is,True
+KT100169,nudge to prepaid,nudge to prepaid,True
+KT100168,nudge to prepaid,nudge to prepaid,True
+KT101467,ship as-is,ship as-is,True
+KT101422,nudge to prepaid,nudge to prepaid,True
+KT100787,nudge to prepaid,nudge to prepaid,True
+KT100249,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100071,ship as-is,ship as-is,True
+KT100184,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100890,ship as-is,ship as-is,True
+KT100511,ship as-is,ship as-is,True
+KT100108,ship as-is,ship as-is,True
+KT101473,ship as-is,ship as-is,True
+KT101001,ship as-is,ship as-is,True
+KT151001,ship as-is,ship as-is,True
+KT101134,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100841,ship as-is,ship as-is,True
+KT101869,nudge to prepaid,nudge to prepaid,True
+KT100410,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101037,ship as-is,ship as-is,True
+KT101421,ship as-is,ship as-is,True
+KT100292,ship as-is,ship as-is,True
+KT100562,ship as-is,ship as-is,True
+KT100576,ship as-is,ship as-is,True
+KT100733,ship as-is,ship as-is,True
+KT101255,ship as-is,ship as-is,True
+KT100824,nudge to prepaid,nudge to prepaid,True
+KT100971,ship as-is,ship as-is,True
+KT101535,nudge to prepaid,nudge to prepaid,True
+KT101468,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100838,nudge to prepaid,nudge to prepaid,True
+KT100023,nudge to prepaid,nudge to prepaid,True
+KT100475,ship as-is,ship as-is,True
+KT101854,nudge to prepaid,nudge to prepaid,True
+KT101765,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101016,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101208,ship as-is,ship as-is,True
+KT100040,nudge to prepaid,nudge to prepaid,True
+KT101779,ship as-is,ship as-is,True
+KT101706,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101834,nudge to prepaid,nudge to prepaid,True
+KT100629,nudge to prepaid,nudge to prepaid,True
+KT100228,ship as-is,ship as-is,True
+KT101748,ship as-is,ship as-is,True
+KT100352,ship as-is,ship as-is,True
+KT101561,ship as-is,ship as-is,True
+KT101924,nudge to prepaid,nudge to prepaid,True
+KT100332,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101600,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101091,nudge to prepaid,nudge to prepaid,True
+KT100462,ship as-is,ship as-is,True
+KT101571,nudge to prepaid,nudge to prepaid,True
+KT101606,ship as-is,ship as-is,True
+KT100284,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101846,ship as-is,ship as-is,True
+KT100566,ship as-is,ship as-is,True
+KT100626,ship as-is,ship as-is,True
+KT100635,nudge to prepaid,nudge to prepaid,True
+KT101613,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101721,nudge to prepaid,nudge to prepaid,True
+KT101153,ship as-is,ship as-is,True
+KT101837,ship as-is,ship as-is,True
+KT101376,ship as-is,ship as-is,True
+KT100442,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101575,ship as-is,ship as-is,True
+KT100026,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100661,nudge to prepaid,nudge to prepaid,True
+KT101949,nudge to prepaid,nudge to prepaid,True
+KT101042,nudge to prepaid,nudge to prepaid,True
+KT100454,nudge to prepaid,nudge to prepaid,True
+KT100575,ship as-is,ship as-is,True
+KT101367,nudge to prepaid,nudge to prepaid,True
+KT101750,ship as-is,ship as-is,True
+KT100236,ship as-is,ship as-is,True
+KT101276,ship as-is,ship as-is,True
+KT100253,ship as-is,ship as-is,True
+KT101424,ship as-is,ship as-is,True
+KT100106,nudge to prepaid,nudge to prepaid,True
+KT101060,nudge to prepaid,nudge to prepaid,True
+KT101754,ship as-is,ship as-is,True
+KT101704,ship as-is,ship as-is,True
+KT101185,nudge to prepaid,nudge to prepaid,True
+KT101296,ship as-is,ship as-is,True
+KT101939,nudge to prepaid,nudge to prepaid,True
+KT101317,ship as-is,ship as-is,True
+KT101417,nudge to prepaid,nudge to prepaid,True
+KT100523,ship as-is,ship as-is,True
+KT101724,nudge to prepaid,nudge to prepaid,True
+KT101074,ship as-is,ship as-is,True
+KT100267,ship as-is,ship as-is,True
+KT101093,ship as-is,ship as-is,True
+KT100247,ship as-is,ship as-is,True
+KT100684,nudge to prepaid,nudge to prepaid,True
+KT101886,ship as-is,ship as-is,True
+KT101500,ship as-is,ship as-is,True
+KT100678,ship as-is,ship as-is,True
+KT101714,nudge to prepaid,nudge to prepaid,True
+KT100180,ship as-is,ship as-is,True
+KT100027,ship as-is,ship as-is,True
+KT100973,nudge to prepaid,nudge to prepaid,True
+KT101186,nudge to prepaid,nudge to prepaid,True
+KT100723,ship as-is,ship as-is,True
+KT101928,ship as-is,ship as-is,True
+KT100279,nudge to prepaid,nudge to prepaid,True
+KT101028,ship as-is,ship as-is,True
+KT101381,nudge to prepaid,nudge to prepaid,True
+KT100740,ship as-is,ship as-is,True
+KT100538,nudge to prepaid,nudge to prepaid,True
+KT100685,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101856,nudge to prepaid,nudge to prepaid,True
+KT101097,ship as-is,ship as-is,True
+KT100610,ship as-is,ship as-is,True
+KT100613,ship as-is,ship as-is,True
+KT101818,nudge to prepaid,nudge to prepaid,True
+KT101499,ship as-is,ship as-is,True
+KT101828,nudge to prepaid,nudge to prepaid,True
+KT101576,ship as-is,ship as-is,True
+KT101325,ship as-is,ship as-is,True
+KT101135,nudge to prepaid,nudge to prepaid,True
+KT100699,ship as-is,ship as-is,True
+KT100095,ship as-is,ship as-is,True
+KT100702,ship as-is,ship as-is,True
+KT101824,nudge to prepaid,nudge to prepaid,True
+KT101170,ship as-is,ship as-is,True
+KT101026,nudge to prepaid,nudge to prepaid,True
+KT100251,ship as-is,ship as-is,True
+KT101816,ship as-is,ship as-is,True
+KT101601,ship as-is,ship as-is,True
+KT100603,ship as-is,ship as-is,True
+KT101847,ship as-is,ship as-is,True
+KT101189,ship as-is,ship as-is,True
+KT101232,nudge to prepaid,nudge to prepaid,True
+KT101627,nudge to prepaid,nudge to prepaid,True
+KT101772,ship as-is,ship as-is,True
+KT100776,nudge to prepaid,nudge to prepaid,True
+KT101041,ship as-is,ship as-is,True
+KT100382,ship as-is,ship as-is,True
+KT100932,ship as-is,ship as-is,True
+KT100463,nudge to prepaid,nudge to prepaid,True
+KT100003,nudge to prepaid,nudge to prepaid,True
+KT100317,ship as-is,ship as-is,True
+KT101321,ship as-is,ship as-is,True
+KT100515,nudge to prepaid,nudge to prepaid,True
+KT101942,ship as-is,ship as-is,True
+KT100737,ship as-is,ship as-is,True
+KT100154,ship as-is,ship as-is,True
+KT101005,ship as-is,ship as-is,True
+KT101635,ship as-is,ship as-is,True
+KT100993,ship as-is,ship as-is,True
+KT100444,ship as-is,ship as-is,True
+KT101322,ship as-is,ship as-is,True
+KT101689,nudge to prepaid,nudge to prepaid,True
+KT100347,ship as-is,ship as-is,True
+KT100489,nudge to prepaid,nudge to prepaid,True
+KT101864,nudge to prepaid,nudge to prepaid,True
+KT101660,nudge to prepaid,nudge to prepaid,True
+KT100318,ship as-is,ship as-is,True
+KT101168,nudge to prepaid,nudge to prepaid,True
+KT101790,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100263,ship as-is,ship as-is,True
+KT100417,ship as-is,ship as-is,True
+KT101446,ship as-is,ship as-is,True
+KT101116,nudge to prepaid,nudge to prepaid,True
+KT101698,ship as-is,ship as-is,True
+KT100621,ship as-is,ship as-is,True
+KT100496,ship as-is,ship as-is,True
+KT100944,ship as-is,ship as-is,True
+KT101557,ship as-is,ship as-is,True
+KT101445,ship as-is,ship as-is,True
+KT100378,nudge to prepaid,nudge to prepaid,True
+KT101546,ship as-is,ship as-is,True
+KT100036,ship as-is,ship as-is,True
+KT100813,ship as-is,ship as-is,True
+KT101006,ship as-is,ship as-is,True
+KT101071,ship as-is,ship as-is,True
+KT101199,ship as-is,ship as-is,True
+KT101173,ship as-is,ship as-is,True
+KT100298,ship as-is,ship as-is,True
+KT101839,nudge to prepaid,nudge to prepaid,True
+KT101572,ship as-is,ship as-is,True
+KT101158,ship as-is,ship as-is,True
+KT101766,nudge to prepaid,nudge to prepaid,True
+KT101898,nudge to prepaid,nudge to prepaid,True
+KT101755,ship as-is,ship as-is,True
+KT101519,ship as-is,ship as-is,True
+KT100145,ship as-is,ship as-is,True
+KT101701,nudge to prepaid,nudge to prepaid,True
+KT101881,ship as-is,ship as-is,True
+KT100922,ship as-is,ship as-is,True
+KT101416,ship as-is,ship as-is,True
+KT101498,ship as-is,ship as-is,True
+KT101596,nudge to prepaid,nudge to prepaid,True
+KT101441,ship as-is,ship as-is,True
+KT100198,ship as-is,ship as-is,True
+KT100483,ship as-is,ship as-is,True
+KT101423,ship as-is,ship as-is,True
+KT100133,nudge to prepaid,nudge to prepaid,True
+KT101340,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101792,ship as-is,ship as-is,True
+KT101211,ship as-is,ship as-is,True
+KT100025,nudge to prepaid,nudge to prepaid,True
+KT101114,nudge to prepaid,nudge to prepaid,True
+KT100861,ship as-is,ship as-is,True
+KT100464,ship as-is,ship as-is,True
+KT100843,nudge to prepaid,nudge to prepaid,True
+KT150843,nudge to prepaid,nudge to prepaid,True
+KT101804,ship as-is,ship as-is,True
+KT101505,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100426,ship as-is,ship as-is,True
+KT100215,ship as-is,ship as-is,True
+KT100803,nudge to prepaid,nudge to prepaid,True
+KT101684,ship as-is,ship as-is,True
+KT101196,ship as-is,ship as-is,True
+KT101669,nudge to prepaid,nudge to prepaid,True
+KT101213,nudge to prepaid,nudge to prepaid,True
+KT101564,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101902,ship as-is,ship as-is,True
+KT100344,nudge to prepaid,nudge to prepaid,True
+KT100373,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100839,ship as-is,ship as-is,True
+KT101476,ship as-is,ship as-is,True
+KT101604,nudge to prepaid,nudge to prepaid,True
+KT100104,ship as-is,ship as-is,True
+KT100637,ship as-is,ship as-is,True
+KT101532,ship as-is,ship as-is,True
+KT100101,ship as-is,ship as-is,True
+KT101573,ship as-is,ship as-is,True
+KT101147,ship as-is,ship as-is,True
+KT101228,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100791,ship as-is,ship as-is,True
+KT100219,ship as-is,ship as-is,True
+KT150219,ship as-is,ship as-is,True
+KT101346,nudge to prepaid,nudge to prepaid,True
+KT101930,ship as-is,ship as-is,True
+KT101592,ship as-is,ship as-is,True
+KT100491,nudge to prepaid,nudge to prepaid,True
+KT101017,ship as-is,ship as-is,True
+KT100239,ship as-is,ship as-is,True
+KT101951,ship as-is,ship as-is,True
+KT100690,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100577,nudge to prepaid,nudge to prepaid,True
+KT100312,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100902,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101785,ship as-is,ship as-is,True
+KT101588,ship as-is,ship as-is,True
+KT100486,nudge to prepaid,nudge to prepaid,True
+KT100096,ship as-is,ship as-is,True
+KT101464,ship as-is,ship as-is,True
+KT100494,ship as-is,ship as-is,True
+KT101004,ship as-is,ship as-is,True
+KT101803,nudge to prepaid,nudge to prepaid,True
+KT101088,ship as-is,ship as-is,True
+KT101720,ship as-is,ship as-is,True
+KT100793,ship as-is,ship as-is,True
+KT101382,nudge to prepaid,nudge to prepaid,True
+KT100425,ship as-is,ship as-is,True
+KT100212,ship as-is,ship as-is,True
+KT100423,ship as-is,ship as-is,True
+KT101593,ship as-is,ship as-is,True
+KT100744,ship as-is,ship as-is,True
+KT100822,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100376,nudge to prepaid,nudge to prepaid,True
+KT101628,nudge to prepaid,nudge to prepaid,True
+KT100171,nudge to prepaid,nudge to prepaid,True
+KT100636,nudge to prepaid,nudge to prepaid,True
+KT101599,nudge to prepaid,nudge to prepaid,True
+KT100825,ship as-is,ship as-is,True
+KT100343,nudge to prepaid,nudge to prepaid,True
+KT100814,ship as-is,ship as-is,True
+KT101431,nudge to prepaid,nudge to prepaid,True
+KT101562,ship as-is,ship as-is,True
+KT100294,nudge to prepaid,nudge to prepaid,True
+KT101127,ship as-is,ship as-is,True
+KT100700,ship as-is,ship as-is,True
+KT101488,ship as-is,ship as-is,True
+KT100782,nudge to prepaid,nudge to prepaid,True
+KT100871,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100224,nudge to prepaid,nudge to prepaid,True
+KT100366,ship as-is,ship as-is,True
+KT101625,nudge to prepaid,nudge to prepaid,True
+KT100914,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101035,ship as-is,ship as-is,True
+KT100696,ship as-is,ship as-is,True
+KT100275,nudge to prepaid,nudge to prepaid,True
+KT101668,nudge to prepaid,nudge to prepaid,True
+KT101743,nudge to prepaid,nudge to prepaid,True
+KT101525,nudge to prepaid,nudge to prepaid,True
+KT100528,ship as-is,ship as-is,True
+KT100203,nudge to prepaid,nudge to prepaid,True
+KT101301,nudge to prepaid,nudge to prepaid,True
+KT100221,nudge to prepaid,nudge to prepaid,True
+KT101246,ship as-is,ship as-is,True
+KT101904,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101201,ship as-is,ship as-is,True
+KT100769,nudge to prepaid,nudge to prepaid,True
+KT101739,ship as-is,ship as-is,True
+KT100543,ship as-is,ship as-is,True
+KT101719,ship as-is,ship as-is,True
+KT100802,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100570,ship as-is,ship as-is,True
+KT100043,ship as-is,ship as-is,True
+KT101644,ship as-is,ship as-is,True
+KT100416,ship as-is,ship as-is,True
+KT100762,nudge to prepaid,nudge to prepaid,True
+KT101459,ship as-is,ship as-is,True
+KT101024,ship as-is,ship as-is,True
+KT100644,ship as-is,ship as-is,True
+KT100241,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101705,nudge to prepaid,nudge to prepaid,True
+KT100555,ship as-is,ship as-is,True
+KT100899,ship as-is,ship as-is,True
+KT100558,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100561,nudge to prepaid,nudge to prepaid,True
+KT101248,nudge to prepaid,nudge to prepaid,True
+KT101183,ship as-is,ship as-is,True
+KT100649,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100481,ship as-is,ship as-is,True
+KT101826,ship as-is,ship as-is,True
+KT100714,ship as-is,ship as-is,True
+KT100407,ship as-is,ship as-is,True
+KT101474,nudge to prepaid,nudge to prepaid,True
+KT101161,ship as-is,ship as-is,True
+KT101442,ship as-is,ship as-is,True
+KT101073,nudge to prepaid,nudge to prepaid,True
+KT100552,ship as-is,ship as-is,True
+KT100748,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100783,nudge to prepaid,nudge to prepaid,True
+KT100727,ship as-is,ship as-is,True
+KT101849,nudge to prepaid,nudge to prepaid,True
+KT100910,ship as-is,ship as-is,True
+KT101504,nudge to prepaid,nudge to prepaid,True
+KT100392,nudge to prepaid,nudge to prepaid,True
+KT100062,ship as-is,ship as-is,True
+KT100432,ship as-is,ship as-is,True
+KT101550,ship as-is,ship as-is,True
+KT100290,nudge to prepaid,nudge to prepaid,True
+KT101155,ship as-is,ship as-is,True
+KT100061,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101717,ship as-is,ship as-is,True
+KT101253,ship as-is,ship as-is,True
+KT101688,ship as-is,ship as-is,True
+KT101237,ship as-is,ship as-is,True
+KT100716,ship as-is,ship as-is,True
+KT150716,ship as-is,ship as-is,True
+KT101712,ship as-is,ship as-is,True
+KT101313,ship as-is,ship as-is,True
+KT100639,nudge to prepaid,nudge to prepaid,True
+KT100535,ship as-is,ship as-is,True
+KT100105,ship as-is,ship as-is,True
+KT100032,ship as-is,ship as-is,True
+KT100412,ship as-is,ship as-is,True
+KT101807,ship as-is,ship as-is,True
+KT100179,ship as-is,ship as-is,True
+KT101579,nudge to prepaid,nudge to prepaid,True
+KT101223,nudge to prepaid,nudge to prepaid,True
+KT100248,ship as-is,ship as-is,True
+KT101805,nudge to prepaid,nudge to prepaid,True
+KT101019,nudge to prepaid,nudge to prepaid,True
+KT100900,ship as-is,ship as-is,True
+KT101563,nudge to prepaid,nudge to prepaid,True
+KT100738,nudge to prepaid,nudge to prepaid,True
+KT100437,ship as-is,ship as-is,True
+KT101784,ship as-is,ship as-is,True
+KT100415,ship as-is,ship as-is,True
+KT100291,ship as-is,ship as-is,True
+KT100820,nudge to prepaid,nudge to prepaid,True
+KT100915,ship as-is,ship as-is,True
+KT101829,ship as-is,ship as-is,True
+KT100379,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101874,ship as-is,ship as-is,True
+KT101400,nudge to prepaid,nudge to prepaid,True
+KT101297,ship as-is,ship as-is,True
+KT101372,ship as-is,ship as-is,True
+KT100183,ship as-is,ship as-is,True
+KT101718,ship as-is,ship as-is,True
+KT101064,ship as-is,ship as-is,True
+KT100276,ship as-is,ship as-is,True
+KT100450,ship as-is,ship as-is,True
+KT101293,ship as-is,ship as-is,True
+KT101722,ship as-is,ship as-is,True
+KT100583,ship as-is,ship as-is,True
+KT101950,ship as-is,ship as-is,True
+KT101392,nudge to prepaid,nudge to prepaid,True
+KT100422,nudge to prepaid,nudge to prepaid,True
+KT100525,ship as-is,ship as-is,True
+KT100798,ship as-is,ship as-is,True
+KT101776,ship as-is,ship as-is,True
+KT101332,ship as-is,ship as-is,True
+KT100324,ship as-is,ship as-is,True
+KT100796,ship as-is,ship as-is,True
+KT100476,ship as-is,ship as-is,True
+KT101197,ship as-is,ship as-is,True
+KT101875,nudge to prepaid,nudge to prepaid,True
+KT101191,ship as-is,ship as-is,True
+KT100124,ship as-is,ship as-is,True
+KT100295,nudge to prepaid,nudge to prepaid,True
+KT101397,ship as-is,ship as-is,True
+KT101079,ship as-is,ship as-is,True
+KT101425,ship as-is,ship as-is,True
+KT101362,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101809,nudge to prepaid,nudge to prepaid,True
+KT101247,ship as-is,ship as-is,True
+KT101338,ship as-is,ship as-is,True
+KT101620,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101038,ship as-is,ship as-is,True
+KT100362,nudge to prepaid,nudge to prepaid,True
+KT100764,ship as-is,ship as-is,True
+KT101812,nudge to prepaid,nudge to prepaid,True
+KT100544,ship as-is,ship as-is,True
+KT100592,ship as-is,ship as-is,True
+KT101131,nudge to prepaid,nudge to prepaid,True
+KT100341,ship as-is,ship as-is,True
+KT100931,ship as-is,ship as-is,True
+KT100586,nudge to prepaid,nudge to prepaid,True
+KT100485,ship as-is,ship as-is,True
+KT101104,ship as-is,ship as-is,True
+KT101833,nudge to prepaid,nudge to prepaid,True
+KT100245,nudge to prepaid,nudge to prepaid,True
+KT100015,ship as-is,ship as-is,True
+KT101566,ship as-is,ship as-is,True
+KT101027,nudge to prepaid,nudge to prepaid,True
+KT101732,ship as-is,ship as-is,True
+KT101437,nudge to prepaid,nudge to prepaid,True
+KT101850,ship as-is,ship as-is,True
+KT101058,nudge to prepaid,nudge to prepaid,True
+KT100532,nudge to prepaid,nudge to prepaid,True
+KT100709,ship as-is,ship as-is,True
+KT101560,nudge to prepaid,nudge to prepaid,True
+KT100147,ship as-is,ship as-is,True
+KT100350,nudge to prepaid,nudge to prepaid,True
+KT101873,nudge to prepaid,nudge to prepaid,True
+KT100934,nudge to prepaid,nudge to prepaid,True
+KT100895,ship as-is,ship as-is,True
+KT101861,ship as-is,ship as-is,True
+KT100316,ship as-is,ship as-is,True
+KT100502,ship as-is,ship as-is,True
+KT101106,ship as-is,ship as-is,True
+KT100706,ship as-is,ship as-is,True
+KT101109,ship as-is,ship as-is,True
+KT100303,ship as-is,ship as-is,True
+KT101685,ship as-is,ship as-is,True
+KT100574,ship as-is,ship as-is,True
+KT100711,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100977,ship as-is,ship as-is,True
+KT101715,ship as-is,ship as-is,True
+KT101595,ship as-is,ship as-is,True
+KT100208,ship as-is,ship as-is,True
+KT100331,nudge to prepaid,nudge to prepaid,True
+KT100204,ship as-is,ship as-is,True
+KT100541,nudge to prepaid,nudge to prepaid,True
+KT101337,ship as-is,ship as-is,True
+KT101348,ship as-is,ship as-is,True
+KT100237,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101580,ship as-is,ship as-is,True
+KT100672,hold/cancel,hold/cancel,True
+KT100668,ship as-is,ship as-is,True
+KT101384,ship as-is,ship as-is,True
+KT100886,nudge to prepaid,nudge to prepaid,True
+KT101440,ship as-is,ship as-is,True
+KT101101,ship as-is,ship as-is,True
+KT101695,ship as-is,ship as-is,True
+KT100086,ship as-is,ship as-is,True
+KT101518,nudge to prepaid,nudge to prepaid,True
+KT101756,ship as-is,ship as-is,True
+KT101057,nudge to prepaid,nudge to prepaid,True
+KT100988,ship as-is,ship as-is,True
+KT101900,ship as-is,ship as-is,True
+KT101014,ship as-is,ship as-is,True
+KT101675,ship as-is,ship as-is,True
+KT151675,ship as-is,ship as-is,True
+KT100624,ship as-is,ship as-is,True
+KT101311,ship as-is,ship as-is,True
+KT101009,ship as-is,ship as-is,True
+KT100999,nudge to prepaid,nudge to prepaid,True
+KT101820,ship as-is,ship as-is,True
+KT100634,ship as-is,ship as-is,True
+KT100131,nudge to prepaid,nudge to prepaid,True
+KT100100,ship as-is,ship as-is,True
+KT101486,ship as-is,ship as-is,True
+KT101277,nudge to prepaid,nudge to prepaid,True
+KT100098,nudge to prepaid,nudge to prepaid,True
+KT100765,ship as-is,ship as-is,True
+KT101744,ship as-is,ship as-is,True
+KT101428,nudge to prepaid,nudge to prepaid,True
+KT101896,nudge to prepaid,nudge to prepaid,True
+KT101133,ship as-is,ship as-is,True
+KT100742,ship as-is,ship as-is,True
+KT101799,ship as-is,ship as-is,True
+KT151799,ship as-is,ship as-is,True
+KT101657,ship as-is,ship as-is,True
+KT101399,ship as-is,ship as-is,True
+KT100785,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100694,nudge to prepaid,nudge to prepaid,True
+KT100092,nudge to prepaid,nudge to prepaid,True
+KT101244,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100234,ship as-is,ship as-is,True
+KT100418,ship as-is,ship as-is,True
+KT101801,ship as-is,ship as-is,True
+KT100567,ship as-is,ship as-is,True
+KT100751,ship as-is,ship as-is,True
+KT101409,ship as-is,ship as-is,True
+KT101502,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101830,nudge to prepaid,nudge to prepaid,True
+KT101280,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101815,ship as-is,ship as-is,True
+KT100199,ship as-is,ship as-is,True
+KT101512,nudge to prepaid,nudge to prepaid,True
+KT100334,nudge to prepaid,nudge to prepaid,True
+KT101120,ship as-is,ship as-is,True
+KT100873,ship as-is,ship as-is,True
+KT100564,nudge to prepaid,nudge to prepaid,True
+KT100735,ship as-is,ship as-is,True
+KT100671,ship as-is,ship as-is,True
+KT101111,ship as-is,ship as-is,True
+KT151111,ship as-is,ship as-is,True
+KT101936,ship as-is,ship as-is,True
+KT100983,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100587,ship as-is,ship as-is,True
+KT100878,nudge to prepaid,nudge to prepaid,True
+KT100683,ship as-is,ship as-is,True
+KT100045,ship as-is,ship as-is,True
+KT101061,ship as-is,ship as-is,True
+KT101160,ship as-is,ship as-is,True
+KT100162,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100643,nudge to prepaid,nudge to prepaid,True
+KT101055,nudge to prepaid,nudge to prepaid,True
+KT101096,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100736,ship as-is,ship as-is,True
+KT100943,nudge to prepaid,nudge to prepaid,True
+KT100809,ship as-is,ship as-is,True
+KT101694,ship as-is,ship as-is,True
+KT101364,nudge to prepaid,nudge to prepaid,True
+KT101420,ship as-is,ship as-is,True
+KT100865,nudge to prepaid,nudge to prepaid,True
+KT100367,ship as-is,ship as-is,True
+KT101051,nudge to prepaid,nudge to prepaid,True
+KT100730,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100079,ship as-is,ship as-is,True
+KT100882,ship as-is,ship as-is,True
+KT101495,ship as-is,ship as-is,True
+KT101723,ship as-is,ship as-is,True
+KT101102,ship as-is,ship as-is,True
+KT101642,nudge to prepaid,nudge to prepaid,True
+KT101063,ship as-is,ship as-is,True
+KT100919,ship as-is,ship as-is,True
+KT100734,ship as-is,ship as-is,True
+KT100458,ship as-is,ship as-is,True
+KT100428,ship as-is,ship as-is,True
+KT101494,nudge to prepaid,nudge to prepaid,True
+KT100703,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100959,ship as-is,ship as-is,True
+KT101126,ship as-is,ship as-is,True
+KT100989,ship as-is,ship as-is,True
+KT101439,ship as-is,ship as-is,True
+KT101607,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101433,ship as-is,ship as-is,True
+KT100905,ship as-is,ship as-is,True
+KT100804,nudge to prepaid,nudge to prepaid,True
+KT101654,nudge to prepaid,nudge to prepaid,True
+KT100140,nudge to prepaid,nudge to prepaid,True
+KT100950,nudge to prepaid,nudge to prepaid,True
+KT101622,nudge to prepaid,nudge to prepaid,True
+KT100590,nudge to prepaid,nudge to prepaid,True
+KT100766,ship as-is,ship as-is,True
+KT101681,ship as-is,ship as-is,True
+KT101692,ship as-is,ship as-is,True
+KT100521,ship as-is,ship as-is,True
+KT101479,ship as-is,ship as-is,True
+KT100842,ship as-is,ship as-is,True
+KT100963,ship as-is,ship as-is,True
+KT101401,nudge to prepaid,nudge to prepaid,True
+KT101303,nudge to prepaid,nudge to prepaid,True
+KT100345,nudge to prepaid,nudge to prepaid,True
+KT150345,nudge to prepaid,nudge to prepaid,True
+KT101617,nudge to prepaid,nudge to prepaid,True
+KT101597,ship as-is,ship as-is,True
+KT101219,ship as-is,ship as-is,True
+KT100756,nudge to prepaid,nudge to prepaid,True
+KT101207,nudge to prepaid,nudge to prepaid,True
+KT151207,nudge to prepaid,nudge to prepaid,True
+KT100056,ship as-is,ship as-is,True
+KT101647,ship as-is,ship as-is,True
+KT100991,ship as-is,ship as-is,True
+KT101315,ship as-is,ship as-is,True
+KT100848,ship as-is,ship as-is,True
+KT100327,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101822,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100163,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100201,nudge to prepaid,nudge to prepaid,True
+KT101789,ship as-is,ship as-is,True
+KT101477,ship as-is,ship as-is,True
+KT101056,nudge to prepaid,nudge to prepaid,True
+KT102002,nudge to prepaid,nudge to prepaid,True
+KT100014,nudge to prepaid,nudge to prepaid,True
+KT100648,ship as-is,ship as-is,True
+KT101383,ship as-is,ship as-is,True
+KT100719,ship as-is,ship as-is,True
+KT100030,ship as-is,ship as-is,True
+KT100779,ship as-is,ship as-is,True
+KT101146,ship as-is,ship as-is,True
+KT101621,nudge to prepaid,nudge to prepaid,True
+KT101943,nudge to prepaid,nudge to prepaid,True
+KT100439,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100898,ship as-is,ship as-is,True
+KT101149,ship as-is,ship as-is,True
+KT100017,nudge to prepaid,nudge to prepaid,True
+KT100340,ship as-is,ship as-is,True
+KT100134,ship as-is,ship as-is,True
+KT101059,ship as-is,ship as-is,True
+KT101496,ship as-is,ship as-is,True
+KT100600,nudge to prepaid,nudge to prepaid,True
+KT101284,nudge to prepaid,nudge to prepaid,True
+KT101193,ship as-is,ship as-is,True
+KT100256,nudge to prepaid,nudge to prepaid,True
+KT101933,nudge to prepaid,nudge to prepaid,True
+KT101558,ship as-is,ship as-is,True
+KT101619,nudge to prepaid,nudge to prepaid,True
+KT100402,ship as-is,ship as-is,True
+KT100342,ship as-is,ship as-is,True
+KT100176,ship as-is,ship as-is,True
+KT100118,ship as-is,ship as-is,True
+KT100531,ship as-is,ship as-is,True
+KT100749,nudge to prepaid,nudge to prepaid,True
+KT101677,ship as-is,ship as-is,True
+KT101687,ship as-is,ship as-is,True
+KT100387,ship as-is,ship as-is,True
+KT100645,nudge to prepaid,nudge to prepaid,True
+KT100281,ship as-is,ship as-is,True
+KT100391,ship as-is,ship as-is,True
+KT101374,nudge to prepaid,nudge to prepaid,True
+KT100891,ship as-is,ship as-is,True
+KT101369,ship as-is,ship as-is,True
+KT101456,ship as-is,ship as-is,True
+KT101645,nudge to prepaid,nudge to prepaid,True
+KT101672,ship as-is,ship as-is,True
+KT101872,nudge to prepaid,nudge to prepaid,True
+KT101759,ship as-is,ship as-is,True
+KT100725,ship as-is,ship as-is,True
+KT100689,ship as-is,ship as-is,True
+KT101640,nudge to prepaid,nudge to prepaid,True
+KT100320,ship as-is,ship as-is,True
+KT100159,ship as-is,ship as-is,True
+KT101039,ship as-is,ship as-is,True
+KT100306,ship as-is,ship as-is,True
+KT101729,ship as-is,ship as-is,True
+KT100747,nudge to prepaid,nudge to prepaid,True
+KT101410,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101667,ship as-is,ship as-is,True
+KT100049,ship as-is,ship as-is,True
+KT100568,ship as-is,ship as-is,True
+KT100187,ship as-is,ship as-is,True
+KT100724,ship as-is,ship as-is,True
+KT101797,ship as-is,ship as-is,True
+KT100904,nudge to prepaid,nudge to prepaid,True
+KT101903,ship as-is,ship as-is,True
+KT101731,ship as-is,ship as-is,True
+KT101586,ship as-is,ship as-is,True
+KT101290,ship as-is,ship as-is,True
+KT101256,ship as-is,ship as-is,True
+KT101484,ship as-is,ship as-is,True
+KT100089,ship as-is,ship as-is,True
+KT101569,ship as-is,ship as-is,True
+KT100978,ship as-is,ship as-is,True
+KT101823,ship as-is,ship as-is,True
+KT101703,ship as-is,ship as-is,True
+KT101034,ship as-is,ship as-is,True
+KT100083,ship as-is,ship as-is,True
+KT100421,ship as-is,ship as-is,True
+KT101419,ship as-is,ship as-is,True
+KT101521,ship as-is,ship as-is,True
+KT100346,ship as-is,ship as-is,True
+KT100479,ship as-is,ship as-is,True
+KT100823,ship as-is,ship as-is,True
+KT100832,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100906,ship as-is,ship as-is,True
+KT100181,nudge to prepaid,nudge to prepaid,True
+KT101490,nudge to prepaid,nudge to prepaid,True
+KT100052,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100321,nudge to prepaid,nudge to prepaid,True
+KT101583,ship as-is,ship as-is,True
+KT101240,nudge to prepaid,nudge to prepaid,True
+KT100923,nudge to prepaid,nudge to prepaid,True
+KT100351,nudge to prepaid,nudge to prepaid,True
+KT101171,ship as-is,ship as-is,True
+KT100460,nudge to prepaid,nudge to prepaid,True
+KT101089,ship as-is,ship as-is,True
+KT100468,nudge to prepaid,nudge to prepaid,True
+KT100121,ship as-is,ship as-is,True
+KT101405,ship as-is,ship as-is,True
+KT100745,ship as-is,ship as-is,True
+KT100847,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100768,ship as-is,ship as-is,True
+KT101352,ship as-is,ship as-is,True
+KT100970,ship as-is,ship as-is,True
+KT100609,nudge to prepaid,nudge to prepaid,True
+KT100188,nudge to prepaid,nudge to prepaid,True
+KT101358,ship as-is,ship as-is,True
+KT101633,nudge to prepaid,nudge to prepaid,True
+KT101394,ship as-is,ship as-is,True
+KT101927,ship as-is,ship as-is,True
+KT100663,nudge to prepaid,nudge to prepaid,True
+KT100266,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100881,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100238,ship as-is,ship as-is,True
+KT100172,nudge to prepaid,nudge to prepaid,True
+KT101154,ship as-is,ship as-is,True
+KT101514,ship as-is,ship as-is,True
+KT100896,ship as-is,ship as-is,True
+KT101069,ship as-is,ship as-is,True
+KT100641,ship as-is,ship as-is,True
+KT100997,ship as-is,ship as-is,True
+KT101693,ship as-is,ship as-is,True
+KT100044,nudge to prepaid,nudge to prepaid,True
+KT101118,nudge to prepaid,nudge to prepaid,True
+KT101282,nudge to prepaid,nudge to prepaid,True
+KT100335,ship as-is,ship as-is,True
+KT101339,ship as-is,ship as-is,True
+KT100682,nudge to prepaid,nudge to prepaid,True
+KT100911,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101209,ship as-is,ship as-is,True
+KT101534,ship as-is,ship as-is,True
+KT100846,nudge to prepaid,nudge to prepaid,True
+KT100322,ship as-is,ship as-is,True
+KT101497,ship as-is,ship as-is,True
+KT101758,ship as-is,ship as-is,True
+KT101231,ship as-is,ship as-is,True
+KT101895,ship as-is,ship as-is,True
+KT101107,ship as-is,ship as-is,True
+KT100165,nudge to prepaid,nudge to prepaid,True
+KT101174,ship as-is,ship as-is,True
+KT100433,ship as-is,ship as-is,True
+KT101235,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101391,ship as-is,ship as-is,True
+KT100082,ship as-is,ship as-is,True
+KT101031,ship as-is,ship as-is,True
+KT101010,nudge to prepaid,nudge to prepaid,True
+KT100938,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101908,nudge to prepaid,nudge to prepaid,True
+KT101260,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101402,ship as-is,ship as-is,True
+KT101314,ship as-is,ship as-is,True
+KT100845,ship as-is,ship as-is,True
+KT100487,ship as-is,ship as-is,True
+KT100478,ship as-is,ship as-is,True
+KT100542,ship as-is,ship as-is,True
+KT101307,ship as-is,ship as-is,True
+KT100006,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100631,ship as-is,ship as-is,True
+KT100726,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101412,ship as-is,ship as-is,True
+KT100051,ship as-is,ship as-is,True
+KT100226,ship as-is,ship as-is,True
+KT150226,ship as-is,ship as-is,True
+KT101443,ship as-is,ship as-is,True
+KT101166,ship as-is,ship as-is,True
+KT101287,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100461,ship as-is,ship as-is,True
+KT101876,ship as-is,ship as-is,True
+KT101249,nudge to prepaid,nudge to prepaid,True
+KT101938,nudge to prepaid,nudge to prepaid,True
+KT101210,nudge to prepaid,nudge to prepaid,True
+KT101871,ship as-is,ship as-is,True
+KT100753,nudge to prepaid,nudge to prepaid,True
+KT100615,ship as-is,ship as-is,True
+KT100994,ship as-is,ship as-is,True
+KT101545,ship as-is,ship as-is,True
+KT100556,ship as-is,ship as-is,True
+KT101866,ship as-is,ship as-is,True
+KT101137,ship as-is,ship as-is,True
+KT101150,ship as-is,ship as-is,True
+KT100929,ship as-is,ship as-is,True
+KT100060,ship as-is,ship as-is,True
+KT100109,ship as-is,ship as-is,True
+KT100731,ship as-is,ship as-is,True
+KT101578,nudge to prepaid,nudge to prepaid,True
+KT100913,nudge to prepaid,nudge to prepaid,True
+KT101139,ship as-is,ship as-is,True
+KT101663,ship as-is,ship as-is,True
+KT101764,ship as-is,ship as-is,True
+KT100064,nudge to prepaid,nudge to prepaid,True
+KT101673,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101463,nudge to prepaid,nudge to prepaid,True
+KT100182,ship as-is,ship as-is,True
+KT101761,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100844,ship as-is,ship as-is,True
+KT101329,ship as-is,ship as-is,True
+KT101444,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100506,nudge to prepaid,nudge to prepaid,True
+KT101530,ship as-is,ship as-is,True
+KT101841,ship as-is,ship as-is,True
+KT101506,nudge to prepaid,nudge to prepaid,True
+KT100941,ship as-is,ship as-is,True
+KT100156,ship as-is,ship as-is,True
+KT101905,ship as-is,ship as-is,True
+KT101455,ship as-is,ship as-is,True
+KT101148,nudge to prepaid,nudge to prepaid,True
+KT101602,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100836,ship as-is,ship as-is,True
+KT100597,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100582,nudge to prepaid,nudge to prepaid,True
+KT101548,nudge to prepaid,nudge to prepaid,True
+KT100389,ship as-is,ship as-is,True
+KT100965,ship as-is,ship as-is,True
+KT101236,ship as-is,ship as-is,True
+KT101020,ship as-is,ship as-is,True
+KT100360,nudge to prepaid,nudge to prepaid,True
+KT101341,nudge to prepaid,nudge to prepaid,True
+KT101485,ship as-is,ship as-is,True
+KT101787,ship as-is,ship as-is,True
+KT101554,nudge to prepaid,nudge to prepaid,True
+KT101953,ship as-is,ship as-is,True
+KT100022,ship as-is,ship as-is,True
+KT101533,ship as-is,ship as-is,True
+KT100280,ship as-is,ship as-is,True
+KT100697,nudge to prepaid,nudge to prepaid,True
+KT101214,ship as-is,ship as-is,True
+KT101918,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100480,nudge to prepaid,nudge to prepaid,True
+KT100856,ship as-is,ship as-is,True
+KT101507,ship as-is,ship as-is,True
+KT100927,nudge to prepaid,nudge to prepaid,True
+KT100059,ship as-is,ship as-is,True
+KT101810,ship as-is,ship as-is,True
+KT101413,nudge to prepaid,nudge to prepaid,True
+KT100996,ship as-is,ship as-is,True
+KT100337,ship as-is,ship as-is,True
+KT101653,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100797,ship as-is,ship as-is,True
+KT100446,ship as-is,ship as-is,True
+KT100429,ship as-is,ship as-is,True
+KT101449,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101916,ship as-is,ship as-is,True
+KT100526,ship as-is,ship as-is,True
+KT100928,ship as-is,ship as-is,True
+KT100775,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT101556,ship as-is,ship as-is,True
+KT101528,ship as-is,ship as-is,True
+KT101267,ship as-is,ship as-is,True
+KT100054,ship as-is,ship as-is,True
+KT100174,ship as-is,ship as-is,True
+KT101508,ship as-is,ship as-is,True
+KT101526,ship as-is,ship as-is,True
+KT100252,ship as-is,ship as-is,True
+KT101095,ship as-is,ship as-is,True
+KT100112,ship as-is,ship as-is,True
+KT101066,ship after WhatsApp confirmation,ship after WhatsApp confirmation,True
+KT100166,ship as-is,ship as-is,True
+KT100076,ship as-is,ship as-is,True
+KT101511,nudge to prepaid,nudge to prepaid,True
+KT101522,ship as-is,ship as-is,True
+KT101083,ship as-is,ship as-is,True
+KT100981,nudge to prepaid,nudge to prepaid,True
+KT100047,ship as-is,ship as-is,True
+KT100457,ship as-is,ship as-is,True
+KT101603,ship as-is,ship as-is,True

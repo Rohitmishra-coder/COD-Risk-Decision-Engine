@@ -1,0 +1,4 @@
+predicted_decision,orders,rtos,total_order_value,delivered,rto_rate_percent,historical_rto_cost,delivered_gross_margin
+nudge to prepaid,101,40,88334,61,39.603960396039604,6776.0,32608.28
+ship after WhatsApp confirmation,37,9,31588,28,24.324324324324326,1524.6000000000001,14882.48
+ship as-is,260,55,230097,205,21.153846153846153,9317.0,110077.28

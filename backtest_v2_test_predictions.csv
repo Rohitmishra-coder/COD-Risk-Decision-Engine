@@ -1,0 +1,399 @@
+order_id,order_datetime,order_value,final_status,is_rto,predicted_decision,predicted_reason
+KT100886,2026-08-26 16:19:00,648,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101440,2026-08-26 16:28:00,798,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101101,2026-08-26 17:57:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101695,2026-08-26 19:14:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100086,2026-08-26 20:17:00,1996,RTO,1,ship as-is,No additional risk condition identified
+KT101518,2026-08-26 22:14:00,399,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101756,2026-08-27 05:17:00,598,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101057,2026-08-27 08:58:00,1047,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100988,2026-08-27 10:08:00,449,RTO,1,ship as-is,No additional risk condition identified
+KT101900,2026-08-27 11:52:00,1596,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101014,2026-08-27 12:43:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101675,2026-08-27 15:05:00,798,DELIVERED,0,ship as-is,No additional risk condition identified
+KT151675,2026-08-27 15:06:00,798,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100624,2026-08-27 20:21:00,1899,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101311,2026-08-27 20:54:00,1397,RTO,1,ship as-is,No additional risk condition identified
+KT101009,2026-08-27 21:57:00,599,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100999,2026-08-27 22:13:00,449,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101820,2026-08-27 22:24:00,399,RTO,1,ship as-is,No additional risk condition identified
+KT100634,2026-08-27 23:51:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100131,2026-08-28 01:44:00,1297,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100100,2026-08-28 07:10:00,898,RTO,1,ship as-is,No additional risk condition identified
+KT101486,2026-08-28 10:06:00,998,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101277,2026-08-28 12:56:00,449,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100098,2026-08-28 18:16:00,399,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100765,2026-08-28 20:48:00,499,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101744,2026-08-28 21:58:00,1098,RTO,1,ship as-is,No additional risk condition identified
+KT101428,2026-08-29 04:18:00,2499,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101896,2026-08-29 04:23:00,948,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101133,2026-08-29 05:41:00,598,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100742,2026-08-29 07:57:00,699,RTO,1,ship as-is,No additional risk condition identified
+KT101799,2026-08-29 11:20:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT151799,2026-08-29 11:21:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101657,2026-08-29 15:51:00,998,RTO,1,ship as-is,No additional risk condition identified
+KT101399,2026-08-29 17:43:00,299,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100785,2026-08-29 18:09:00,349,RTO,1,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100694,2026-08-29 20:24:00,349,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100092,2026-08-29 20:48:00,2396,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101244,2026-08-29 21:22:00,948,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100234,2026-08-29 23:29:00,1198,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100418,2026-08-30 06:15:00,998,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101801,2026-08-30 08:49:00,897,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100567,2026-08-30 08:50:00,998,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100751,2026-08-30 10:19:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101409,2026-08-30 11:01:00,499,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101502,2026-08-30 12:41:00,399,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT101830,2026-08-30 14:02:00,898,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101280,2026-08-30 14:38:00,1647,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT101815,2026-08-30 15:00:00,1048,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100199,2026-08-30 15:53:00,599,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101512,2026-08-30 15:55:00,699,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100334,2026-08-30 16:32:00,599,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101120,2026-08-30 17:31:00,2097,RTO,1,ship as-is,No additional risk condition identified
+KT100873,2026-08-30 18:21:00,1097,RTO,1,ship as-is,No additional risk condition identified
+KT100564,2026-08-30 19:18:00,1298,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100735,2026-08-30 19:42:00,1048,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100671,2026-08-30 22:17:00,1846,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101111,2026-08-30 22:54:00,997,DELIVERED,0,ship as-is,No additional risk condition identified
+KT151111,2026-08-30 22:58:00,997,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101936,2026-08-31 00:31:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100983,2026-08-31 02:40:00,399,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100587,2026-08-31 07:08:00,1547,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100878,2026-08-31 08:25:00,349,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100683,2026-08-31 09:00:00,599,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100045,2026-08-31 12:09:00,1996,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101061,2026-08-31 12:59:00,599,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101160,2026-08-31 17:29:00,897,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100162,2026-08-31 18:32:00,699,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100643,2026-08-31 19:17:00,299,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101055,2026-08-31 20:50:00,699,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101096,2026-09-01 00:21:00,349,DELIVERED,0,ship after WhatsApp confirmation,Phone number needs verification
+KT100736,2026-09-01 02:09:00,349,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100943,2026-09-01 04:31:00,1148,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100809,2026-09-01 04:53:00,998,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101694,2026-09-01 06:13:00,1797,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101364,2026-09-01 06:51:00,1198,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101420,2026-09-01 08:21:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100865,2026-09-01 08:22:00,1098,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100367,2026-09-01 11:34:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101051,2026-09-01 13:35:00,699,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100730,2026-09-01 13:35:00,599,RTO,1,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100079,2026-09-01 15:37:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100882,2026-09-01 16:36:00,1198,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101495,2026-09-01 21:48:00,499,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101723,2026-09-01 22:25:00,1696,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101102,2026-09-02 03:31:00,599,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101642,2026-09-02 07:43:00,399,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101063,2026-09-02 10:16:00,2999,RTO,1,ship as-is,No additional risk condition identified
+KT100919,2026-09-02 14:06:00,798,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100734,2026-09-02 19:33:00,299,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100458,2026-09-02 20:42:00,1048,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100428,2026-09-03 01:35:00,1596,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101494,2026-09-03 02:03:00,399,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100703,2026-09-03 03:31:00,648,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100959,2026-09-03 04:07:00,499,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101126,2026-09-03 06:15:00,1496,RTO,1,ship as-is,No additional risk condition identified
+KT100989,2026-09-03 08:26:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101439,2026-09-03 10:38:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101607,2026-09-03 20:43:00,648,DELIVERED,0,ship after WhatsApp confirmation,Phone number needs verification
+KT101433,2026-09-04 00:36:00,599,RTO,1,ship as-is,No additional risk condition identified
+KT100905,2026-09-04 01:31:00,798,RTO,1,ship as-is,No additional risk condition identified
+KT100804,2026-09-04 07:01:00,1597,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101654,2026-09-04 08:10:00,399,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100140,2026-09-04 08:43:00,1899,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100950,2026-09-04 10:53:00,1397,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101622,2026-09-04 10:56:00,1247,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100590,2026-09-04 10:56:00,798,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100766,2026-09-04 11:07:00,748,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101681,2026-09-04 12:25:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101692,2026-09-04 15:48:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100521,2026-09-04 16:31:00,1048,RTO,1,ship as-is,No additional risk condition identified
+KT101479,2026-09-04 17:11:00,1597,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100842,2026-09-04 17:13:00,1447,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100963,2026-09-04 18:04:00,499,RTO,1,ship as-is,No additional risk condition identified
+KT101401,2026-09-04 18:22:00,599,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101303,2026-09-04 20:53:00,299,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100345,2026-09-04 21:28:00,2999,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT150345,2026-09-04 21:30:00,2999,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101617,2026-09-05 02:27:00,449,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101597,2026-09-05 03:41:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101219,2026-09-05 09:30:00,599,RTO,1,ship as-is,No additional risk condition identified
+KT100756,2026-09-05 10:10:00,699,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101207,2026-09-05 10:51:00,1098,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT151207,2026-09-05 10:52:00,1098,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100056,2026-09-05 13:15:00,798,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101647,2026-09-05 16:57:00,299,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100991,2026-09-05 17:43:00,499,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101315,2026-09-05 18:31:00,349,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100848,2026-09-05 18:34:00,898,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100327,2026-09-05 19:34:00,349,RTO,1,ship after WhatsApp confirmation,Phone number needs verification
+KT101822,2026-09-05 21:37:00,299,RTO,1,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100163,2026-09-05 23:33:00,699,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100201,2026-09-06 01:23:00,399,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101789,2026-09-06 02:32:00,698,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101477,2026-09-06 05:04:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101056,2026-09-06 09:38:00,948,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT102002,2026-09-06 10:05:00,299,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100014,2026-09-06 10:05:00,299,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100648,2026-09-06 13:27:00,1197,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101383,2026-09-06 17:58:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100719,2026-09-06 19:36:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100030,2026-09-06 21:15:00,1397,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100779,2026-09-06 23:01:00,299,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101146,2026-09-07 06:20:00,599,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101621,2026-09-07 08:23:00,998,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101943,2026-09-07 10:13:00,699,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100439,2026-09-07 13:03:00,1098,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100898,2026-09-07 15:17:00,698,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101149,2026-09-07 16:46:00,1547,RTO,1,ship as-is,No additional risk condition identified
+KT100017,2026-09-07 17:01:00,699,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100340,2026-09-07 17:42:00,299,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100134,2026-09-08 02:46:00,1048,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101059,2026-09-08 04:20:00,1796,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101496,2026-09-08 05:32:00,299,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100600,2026-09-08 05:42:00,449,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101284,2026-09-08 05:48:00,499,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101193,2026-09-08 09:24:00,998,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100256,2026-09-08 10:53:00,1547,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101933,2026-09-08 11:55:00,499,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101558,2026-09-08 12:32:00,1098,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101619,2026-09-08 13:20:00,1347,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100402,2026-09-08 14:07:00,948,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100342,2026-09-08 14:34:00,699,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100176,2026-09-08 17:53:00,349,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100118,2026-09-09 00:19:00,599,RTO,1,ship as-is,No additional risk condition identified
+KT100531,2026-09-09 16:12:00,1148,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100749,2026-09-09 17:07:00,299,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101677,2026-09-09 18:26:00,399,RTO,1,ship as-is,No additional risk condition identified
+KT101687,2026-09-09 19:15:00,798,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100387,2026-09-10 03:38:00,449,RTO,1,ship as-is,No additional risk condition identified
+KT100645,2026-09-10 03:56:00,848,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100281,2026-09-10 05:05:00,499,RTO,1,ship as-is,No additional risk condition identified
+KT100391,2026-09-10 10:06:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101374,2026-09-10 10:47:00,349,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100891,2026-09-10 11:31:00,599,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101369,2026-09-10 18:50:00,349,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101456,2026-09-11 00:12:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101645,2026-09-11 03:26:00,449,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101672,2026-09-11 07:16:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101872,2026-09-11 07:28:00,798,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101759,2026-09-11 08:27:00,1946,RTO,1,ship as-is,No additional risk condition identified
+KT100725,2026-09-11 10:54:00,798,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100689,2026-09-11 13:53:00,349,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101640,2026-09-11 14:39:00,748,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100320,2026-09-11 18:06:00,299,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100159,2026-09-11 18:22:00,1098,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101039,2026-09-11 21:49:00,898,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100306,2026-09-12 01:08:00,699,RTO,1,ship as-is,No additional risk condition identified
+KT101729,2026-09-12 02:20:00,349,RTO,1,ship as-is,No additional risk condition identified
+KT100747,2026-09-12 02:41:00,499,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101410,2026-09-12 03:41:00,699,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT101667,2026-09-12 04:30:00,449,RTO,1,ship as-is,No additional risk condition identified
+KT100049,2026-09-12 05:53:00,1097,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100568,2026-09-12 07:11:00,299,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100187,2026-09-12 08:48:00,699,RTO,1,ship as-is,No additional risk condition identified
+KT100724,2026-09-12 08:49:00,599,RTO,1,ship as-is,No additional risk condition identified
+KT101797,2026-09-12 09:41:00,1646,RTO,1,ship as-is,No additional risk condition identified
+KT100904,2026-09-12 10:42:00,699,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101903,2026-09-12 12:59:00,1398,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101731,2026-09-12 13:42:00,1447,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101586,2026-09-12 16:01:00,349,RTO,1,ship as-is,No additional risk condition identified
+KT101290,2026-09-12 18:27:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101256,2026-09-12 19:30:00,2046,RTO,1,ship as-is,No additional risk condition identified
+KT101484,2026-09-12 19:45:00,1496,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100089,2026-09-12 21:09:00,1547,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101569,2026-09-12 21:10:00,1296,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100978,2026-09-13 00:30:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101823,2026-09-13 01:19:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101703,2026-09-13 03:33:00,1347,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101034,2026-09-13 04:17:00,349,RTO,1,ship as-is,No additional risk condition identified
+KT100083,2026-09-13 05:35:00,1048,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100421,2026-09-13 14:54:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101419,2026-09-13 15:50:00,299,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101521,2026-09-13 18:52:00,599,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100346,2026-09-13 20:57:00,1398,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100479,2026-09-13 22:04:00,748,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100823,2026-09-13 22:13:00,848,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100832,2026-09-13 22:46:00,499,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100906,2026-09-13 23:40:00,349,RTO,1,ship as-is,No additional risk condition identified
+KT100181,2026-09-14 02:50:00,798,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101490,2026-09-14 07:51:00,2199,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100052,2026-09-14 08:15:00,1796,DELIVERED,0,ship after WhatsApp confirmation,City information is missing
+KT100321,2026-09-14 14:26:00,299,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101583,2026-09-14 20:23:00,748,RTO,1,ship as-is,No additional risk condition identified
+KT101240,2026-09-14 22:14:00,848,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100923,2026-09-14 22:55:00,299,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100351,2026-09-15 00:02:00,399,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101171,2026-09-15 00:15:00,699,RTO,1,ship as-is,No additional risk condition identified
+KT100460,2026-09-15 00:19:00,898,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101089,2026-09-15 02:35:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100468,2026-09-15 05:49:00,798,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100121,2026-09-15 10:00:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101405,2026-09-15 11:21:00,349,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100745,2026-09-15 12:02:00,848,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100847,2026-09-15 14:25:00,449,RTO,1,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100768,2026-09-15 15:07:00,299,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101352,2026-09-15 15:24:00,948,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100970,2026-09-15 16:14:00,798,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100609,2026-09-15 17:44:00,699,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100188,2026-09-15 18:25:00,1197,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101358,2026-09-15 20:19:00,499,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101633,2026-09-15 21:31:00,1896,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101394,2026-09-16 02:01:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101927,2026-09-16 08:31:00,998,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100663,2026-09-16 10:47:00,599,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100266,2026-09-16 11:21:00,798,RTO,1,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100881,2026-09-16 13:23:00,948,RTO,1,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100238,2026-09-16 14:08:00,299,RTO,1,ship as-is,No additional risk condition identified
+KT100172,2026-09-16 15:29:00,499,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101154,2026-09-16 16:55:00,2346,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101514,2026-09-16 21:10:00,998,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100896,2026-09-16 23:25:00,748,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101069,2026-09-17 00:24:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100641,2026-09-17 03:45:00,1297,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100997,2026-09-17 04:00:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101693,2026-09-17 05:55:00,1398,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100044,2026-09-17 12:08:00,2396,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101118,2026-09-17 12:29:00,449,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101282,2026-09-17 15:11:00,1397,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100335,2026-09-17 16:28:00,299,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101339,2026-09-17 22:25:00,798,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100682,2026-09-18 00:04:00,1198,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100911,2026-09-18 00:42:00,349,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT101209,2026-09-18 01:10:00,1298,RTO,1,ship as-is,No additional risk condition identified
+KT101534,2026-09-18 01:17:00,699,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100846,2026-09-18 09:22:00,349,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100322,2026-09-18 09:54:00,2499,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101497,2026-09-18 10:28:00,748,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101758,2026-09-18 10:30:00,798,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101231,2026-09-18 17:35:00,1298,RTO,1,ship as-is,No additional risk condition identified
+KT101895,2026-09-18 19:20:00,698,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101107,2026-09-18 21:21:00,499,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100165,2026-09-19 00:24:00,1148,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101174,2026-09-19 06:38:00,1247,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100433,2026-09-19 08:56:00,598,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101235,2026-09-19 12:49:00,599,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT101391,2026-09-19 13:21:00,599,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100082,2026-09-19 15:33:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101031,2026-09-19 16:08:00,898,RTO,1,ship as-is,No additional risk condition identified
+KT101010,2026-09-19 16:41:00,499,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100938,2026-09-19 18:55:00,349,DELIVERED,0,ship after WhatsApp confirmation,Phone number needs verification
+KT101908,2026-09-19 23:20:00,1697,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101260,2026-09-20 01:52:00,399,DELIVERED,0,ship after WhatsApp confirmation,Phone number needs verification
+KT101402,2026-09-20 12:49:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101314,2026-09-20 12:49:00,1396,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100845,2026-09-20 12:57:00,1198,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100487,2026-09-20 15:07:00,998,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100478,2026-09-20 15:27:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100542,2026-09-20 16:52:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101307,2026-09-20 18:51:00,1198,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100006,2026-09-20 20:41:00,1197,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100631,2026-09-20 21:25:00,399,RTO,1,ship as-is,No additional risk condition identified
+KT100726,2026-09-21 00:30:00,699,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT101412,2026-09-21 01:40:00,2999,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100051,2026-09-21 05:01:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100226,2026-09-21 06:26:00,1647,DELIVERED,0,ship as-is,No additional risk condition identified
+KT150226,2026-09-21 06:29:00,1647,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101443,2026-09-21 08:57:00,948,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101166,2026-09-21 10:44:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101287,2026-09-21 11:20:00,599,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100461,2026-09-21 12:01:00,1397,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101876,2026-09-21 16:41:00,2999,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101249,2026-09-21 18:40:00,748,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101938,2026-09-21 21:43:00,449,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101210,2026-09-21 23:21:00,399,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101871,2026-09-22 01:07:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100753,2026-09-22 04:13:00,1597,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100615,2026-09-22 05:46:00,1048,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100994,2026-09-22 11:05:00,699,RTO,1,ship as-is,No additional risk condition identified
+KT101545,2026-09-22 11:47:00,699,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100556,2026-09-22 12:40:00,998,RTO,1,ship as-is,No additional risk condition identified
+KT101866,2026-09-22 14:01:00,299,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101137,2026-09-22 15:18:00,998,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101150,2026-09-22 17:21:00,1098,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100929,2026-09-22 18:28:00,998,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100060,2026-09-22 20:51:00,1297,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100109,2026-09-22 22:25:00,1347,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100731,2026-09-23 03:46:00,1347,RTO,1,ship as-is,No additional risk condition identified
+KT101578,2026-09-23 03:46:00,499,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100913,2026-09-23 10:17:00,748,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101139,2026-09-23 10:42:00,998,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101663,2026-09-23 11:47:00,1497,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101764,2026-09-23 16:22:00,848,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100064,2026-09-23 16:59:00,1347,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101673,2026-09-23 17:16:00,1198,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT101463,2026-09-23 19:33:00,699,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100182,2026-09-23 19:49:00,798,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101761,2026-09-23 20:13:00,2499,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100844,2026-09-23 21:43:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101329,2026-09-23 23:20:00,2999,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101444,2026-09-24 02:33:00,798,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100506,2026-09-24 03:17:00,698,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101530,2026-09-24 04:16:00,499,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101841,2026-09-24 06:32:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101506,2026-09-24 07:22:00,1397,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100941,2026-09-24 09:39:00,998,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100156,2026-09-24 12:22:00,699,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101905,2026-09-24 12:47:00,1297,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101455,2026-09-24 12:55:00,499,RTO,1,ship as-is,No additional risk condition identified
+KT101148,2026-09-24 14:42:00,349,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101602,2026-09-24 14:59:00,1747,DELIVERED,0,ship after WhatsApp confirmation,Phone number needs verification
+KT100836,2026-09-24 16:00:00,449,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100597,2026-09-24 18:07:00,1996,RTO,1,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100582,2026-09-24 19:03:00,349,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101548,2026-09-24 19:10:00,399,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100389,2026-09-24 19:15:00,748,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100965,2026-09-25 01:49:00,349,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101236,2026-09-25 05:26:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101020,2026-09-25 07:26:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100360,2026-09-25 07:28:00,449,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101341,2026-09-25 09:08:00,1647,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101485,2026-09-25 16:31:00,599,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101787,2026-09-25 21:38:00,1098,RTO,1,ship as-is,No additional risk condition identified
+KT101554,2026-09-25 23:47:00,399,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101953,2026-09-26 02:01:00,349,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100022,2026-09-26 04:40:00,2046,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101533,2026-09-26 05:38:00,299,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100280,2026-09-26 09:00:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100697,2026-09-26 09:25:00,349,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101214,2026-09-26 13:07:00,948,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101918,2026-09-26 16:24:00,299,DELIVERED,0,ship after WhatsApp confirmation,Pincode needs verification
+KT100480,2026-09-26 17:03:00,499,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100856,2026-09-26 22:06:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101507,2026-09-27 01:09:00,2999,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100927,2026-09-27 02:16:00,399,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100059,2026-09-27 03:12:00,399,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101810,2026-09-27 07:45:00,499,RTO,1,ship as-is,No additional risk condition identified
+KT101413,2026-09-27 15:11:00,1546,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100996,2026-09-27 16:23:00,1297,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100337,2026-09-27 19:30:00,2499,RTO,1,ship as-is,No additional risk condition identified
+KT101653,2026-09-27 19:35:00,1797,RTO,1,ship after WhatsApp confirmation,Customer has previous RTO history
+KT100797,2026-09-28 03:37:00,1597,RTO,1,ship as-is,No additional risk condition identified
+KT100446,2026-09-28 04:12:00,299,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100429,2026-09-28 05:32:00,848,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101449,2026-09-28 13:48:00,798,DELIVERED,0,ship after WhatsApp confirmation,Customer has previous RTO history
+KT101916,2026-09-28 16:36:00,1897,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100526,2026-09-28 18:39:00,2499,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100928,2026-09-28 20:48:00,699,RTO,1,ship as-is,No additional risk condition identified
+KT100775,2026-09-28 21:09:00,599,DELIVERED,0,ship after WhatsApp confirmation,Pincode needs verification
+KT101556,2026-09-29 00:17:00,948,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101528,2026-09-29 03:50:00,599,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101267,2026-09-29 07:21:00,1198,RTO,1,ship as-is,No additional risk condition identified
+KT100054,2026-09-29 07:22:00,499,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100174,2026-09-29 09:12:00,998,RTO,1,ship as-is,No additional risk condition identified
+KT101508,2026-09-29 12:40:00,599,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101526,2026-09-29 13:11:00,349,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100252,2026-09-29 14:17:00,948,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101095,2026-09-29 18:32:00,1148,RTO,1,ship as-is,No additional risk condition identified
+KT100112,2026-09-29 20:17:00,1198,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101066,2026-09-29 23:14:00,1347,DELIVERED,0,ship after WhatsApp confirmation,Phone number needs verification
+KT100166,2026-09-30 00:02:00,798,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100076,2026-09-30 02:05:00,449,RTO,1,ship as-is,No additional risk condition identified
+KT101511,2026-09-30 06:52:00,499,RTO,1,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT101522,2026-09-30 08:12:00,499,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101083,2026-09-30 10:47:00,1797,DELIVERED,0,ship as-is,No additional risk condition identified
+KT100981,2026-09-30 16:20:00,698,DELIVERED,0,nudge to prepaid,First-time customer from a higher-RTO marketing cohort
+KT100047,2026-09-30 20:21:00,299,RTO,1,ship as-is,No additional risk condition identified
+KT100457,2026-09-30 22:26:00,748,DELIVERED,0,ship as-is,No additional risk condition identified
+KT101603,2026-09-30 23:04:00,748,RTO,1,ship as-is,No additional risk condition identified

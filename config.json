@@ -1,0 +1,11 @@
+{
+    "prior_rto_confirmation_threshold": 1,
+    "high_risk_sources": [
+        "meta_ads"
+    ],
+    "high_risk_customer_types": [
+        "First-time"
+    ],
+    "require_valid_phone": true,
+    "require_valid_pincode": true
+}

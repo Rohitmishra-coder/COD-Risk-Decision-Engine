@@ -1,0 +1,7 @@
+order_id,decision,customer_response,response_time,system_action,final_action,final_action_reason,interaction_status
+KT100193,nudge to prepaid,YES,2026-10-31T17:51:54,SEND_PREPAID_LINK,PREPAID_LINK_SENT,Customer agreed to receive prepaid payment link,COMPLETED
+KT101714,nudge to prepaid,NO,2026-10-31T17:51:54,KEEP_COD,KEEP_COD,Customer declined prepaid payment,COMPLETED
+KT100452,nudge to prepaid,HELLO,2026-10-31T17:51:54,ASK_FOR_VALID_RESPONSE,WAITING_FOR_CUSTOMER,Invalid response; waiting for a valid response,AWAITING_VALID_RESPONSE
+KT100662,ship after WhatsApp confirmation,YES,2026-10-31T17:51:54,CONFIRM_COD_ORDER,SHIP,Customer confirmed the COD order,COMPLETED
+KT100442,ship after WhatsApp confirmation,NO,2026-10-31T17:51:54,HOLD_FOR_MANUAL_REVIEW,HOLD_FOR_MANUAL_REVIEW,Customer declined COD order confirmation,COMPLETED
+KT101822,ship after WhatsApp confirmation,NO RESPONSE,,HOLD_FOR_MANUAL_REVIEW,HOLD_FOR_MANUAL_REVIEW,No COD confirmation within 24 hours,TIMED_OUT

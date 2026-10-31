@@ -1,0 +1,5 @@
+predicted_decision,orders,rtos,delivered,rto_rate
+hold/cancel,4,4,0,100.0
+nudge to prepaid,448,146,302,32.589285714285715
+ship after WhatsApp confirmation,146,65,81,44.52054794520548
+ship as-is,991,246,745,24.8234106962664
